@@ -1,1 +1,26 @@
-
+name: Aggiorna dati
+on:
+  schedule:
+    - cron: "0 */3 * * *"       # ogni 3 ore (UTC)
+    - cron: "*/30 11-19 * * 0"  # la domenica, ogni 30 minuti
+  workflow_dispatch:            # avvio manuale dal tab Actions
+permissions:
+  contents: write
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python fetch_data.py --out data.json
+      - name: Commit se i dati sono cambiati
+        run: |
+          if [ -n "$(git status --porcelain data.json)" ]; then
+            git config user.name "github-actions"
+            git config user.email "actions@users.noreply.github.com"
+            git add data.json
+            git commit -m "Aggiorna dati"
+            git push
+          fi
