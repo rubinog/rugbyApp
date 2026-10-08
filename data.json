@@ -1,0 +1,360 @@
+{
+ "categoria": "SERIE A1",
+ "aggiornato": "2026-10-08T20:08:02+00:00",
+ "fasi": [
+  {
+   "nome": "Fase Regolare",
+   "gironi": [
+    {
+     "nome": "Girone 1",
+     "classifica_raw": [],
+     "squadre": {
+      "vii-rugby-torino-ssd-a-r-l": {
+       "ufficiale": "VII RUGBY TORINO SSD A R.L.",
+       "nome": "Vii Rugby Torino"
+      },
+      "isweb-avezzano-rugby": {
+       "ufficiale": "ISWEB AVEZZANO RUGBY",
+       "nome": "Isweb Avezzano Rugby"
+      },
+      "rugby-parma-f-c-1931-soc-coop-s-d": {
+       "ufficiale": "RUGBY PARMA F.C.1931 SOC.COOP.S.D.",
+       "nome": "Rugby Parma F.C.1931"
+      },
+      "piacenza-rugby-club-asd": {
+       "ufficiale": "PIACENZA RUGBY CLUB ASD",
+       "nome": "Piacenza Rugby Club"
+      },
+      "unione-rugby-capitolina-asd": {
+       "ufficiale": "UNIONE RUGBY CAPITOLINA ASD",
+       "nome": "Unione Rugby Capitolina"
+      },
+      "asd-pesaro-rugby": {
+       "ufficiale": "ASD PESARO RUGBY",
+       "nome": "Pesaro Rugby"
+      },
+      "valsugana-rugby-junior-padova-asd": {
+       "ufficiale": "VALSUGANA RUGBY JUNIOR PADOVA ASD",
+       "nome": "Valsugana Rugby Junior Padova"
+      },
+      "rugby-calvisano-ssd-arl": {
+       "ufficiale": "RUGBY CALVISANO SSD ARL",
+       "nome": "Rugby Calvisano"
+      },
+      "livorno-rugby-ssd-s-r-l": {
+       "ufficiale": "LIVORNO RUGBY SSD S.R.L.",
+       "nome": "Livorno Rugby"
+      },
+      "amatori-rugby-alghero-asd": {
+       "ufficiale": "AMATORI RUGBY ALGHERO ASD",
+       "nome": "Amatori Rugby Alghero"
+      },
+      "rugby-club-cavalieri-ssd-a-r-l": {
+       "ufficiale": "RUGBY CLUB CAVALIERI SSD A R.L.",
+       "nome": "Rugby Club Cavalieri"
+      },
+      "cus-torino-asd": {
+       "ufficiale": "CUS TORINO ASD",
+       "nome": "Cus Torino"
+      }
+     },
+     "giornate": [
+      {
+       "nome": "Giornata 01",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-10-18T12:30",
+         "casa": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "ospite": "piacenza-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"GIUSEPPE BANCHINI\" N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "vii-rugby-torino-ssd-a-r-l",
+         "ospite": "isweb-avezzano-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE RUGBY N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "unione-rugby-capitolina-asd",
+         "ospite": "asd-pesaro-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO DELL'UNIONE N.1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "valsugana-rugby-junior-padova-asd",
+         "ospite": "rugby-calvisano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VALSUGANA RUGBY PADOVA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "livorno-rugby-ssd-s-r-l",
+         "ospite": "amatori-rugby-alghero-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C. MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "rugby-club-cavalieri-ssd-a-r-l",
+         "ospite": "cus-torino-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 02",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-10-24T15:00",
+         "casa": "amatori-rugby-alghero-asd",
+         "ospite": "rugby-club-cavalieri-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARIA PIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "asd-pesaro-rugby",
+         "ospite": "vii-rugby-torino-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO TOTI PATRIGNANI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "isweb-avezzano-rugby",
+         "ospite": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO DEL RUGBY ANGELO TROMBETTA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "piacenza-rugby-club-asd",
+         "ospite": "unione-rugby-capitolina-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "WALTER BELTRAMETTI  N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "rugby-calvisano-ssd-arl",
+         "ospite": "cus-torino-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SAN MICHELE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "valsugana-rugby-junior-padova-asd",
+         "ospite": "livorno-rugby-ssd-s-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VALSUGANA RUGBY PADOVA",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 03",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "vii-rugby-torino-ssd-a-r-l",
+         "ospite": "valsugana-rugby-junior-padova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE RUGBY N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "isweb-avezzano-rugby",
+         "ospite": "cus-torino-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO DEL RUGBY ANGELO TROMBETTA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "ospite": "amatori-rugby-alghero-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"GIUSEPPE BANCHINI\" N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "unione-rugby-capitolina-asd",
+         "ospite": "rugby-club-cavalieri-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO DELL'UNIONE N.1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "rugby-calvisano-ssd-arl",
+         "ospite": "piacenza-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SAN MICHELE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "livorno-rugby-ssd-s-r-l",
+         "ospite": "asd-pesaro-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C. MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 04",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-11-29T12:30",
+         "casa": "cus-torino-asd",
+         "ospite": "vii-rugby-torino-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ALBONICO N.1 (GUGLIELMINO)",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "valsugana-rugby-junior-padova-asd",
+         "ospite": "isweb-avezzano-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VALSUGANA RUGBY PADOVA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "rugby-club-cavalieri-ssd-a-r-l",
+         "ospite": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "amatori-rugby-alghero-asd",
+         "ospite": "unione-rugby-capitolina-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARIA PIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "piacenza-rugby-club-asd",
+         "ospite": "livorno-rugby-ssd-s-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "WALTER BELTRAMETTI  N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "asd-pesaro-rugby",
+         "ospite": "rugby-calvisano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO TOTI PATRIGNANI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 05",
+       "tipo": "Andata",
+       "partite": []
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

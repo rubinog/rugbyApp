@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Serie A Rugby</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#1f5a3a">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<style>
+:root{--bg:#f3f5f0;--card:#fff;--tx:#17201b;--mut:#5d6b62;--ln:#d6ddd2;--ac:#1e56a0;--hd:#1f5a3a;--hd2:#256b45}
+@media(prefers-color-scheme:dark){:root{--bg:#0f1713;--card:#17241c;--tx:#e9efe9;--mut:#9aaa9f;--ln:#27382d;--ac:#7fb0ff}}
+*{box-sizing:border-box}
+html{height:100%}
+body{margin:0;min-height:100%;font:16px/1.4 system-ui,-apple-system,"Segoe UI",sans-serif;background:var(--bg);color:var(--tx)}
+header{position:sticky;top:0;z-index:2;color:#fff;padding:calc(env(safe-area-inset-top) + 10px) 14px 0;background:repeating-linear-gradient(90deg,var(--hd) 0 44px,var(--hd2) 44px 88px)}
+h1{margin:0 0 8px;font-size:1.25rem;font-weight:700;letter-spacing:.01em}
+.row{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none}
+.row::-webkit-scrollbar{display:none}
+.chip{flex:none;border:0;border-radius:99px;padding:7px 14px;font:inherit;font-size:.9rem;color:#fff;background:rgba(0,0,0,.22);cursor:pointer}
+.chip[aria-pressed=true]{background:#fff;color:var(--hd);font-weight:600}
+.tabs{display:flex;margin-top:8px}
+.tabs button{flex:1;border:0;background:none;color:#ffffffb8;font:inherit;padding:10px 0;border-bottom:3px solid transparent;cursor:pointer}
+.tabs button[aria-selected=true]{color:#fff;border-color:#fff;font-weight:600}
+:focus-visible{outline:3px solid #ffd24a;outline-offset:2px}
+main{max-width:640px;margin:0 auto;padding:12px 12px calc(24px + env(safe-area-inset-bottom))}
+.nav{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}
+.nav button{width:44px;height:44px;border:1px solid var(--ln);border-radius:12px;background:var(--card);color:var(--tx);font-size:1.2rem;cursor:pointer}
+.nav button:disabled{opacity:.35}
+.nav b{text-align:center;font-weight:600}
+.nav small{display:block;color:var(--mut);font-weight:400}
+.m{background:var(--card);border:1px solid var(--ln);border-radius:12px;padding:12px 14px;margin-bottom:8px}
+.dt{color:var(--mut);font-size:.85rem;margin-bottom:6px}
+.r{display:grid;grid-template-columns:1fr auto 1fr;gap:10px;align-items:center}
+.t{font-weight:500;overflow-wrap:anywhere}.t.a{text-align:right}
+.t.w{font-weight:800}
+.s{font-variant-numeric:tabular-nums;font-size:1.35rem;font-weight:800;white-space:nowrap}
+.s.np{font-size:.95rem;font-weight:500;color:var(--mut)}
+.cp{margin-top:6px;color:var(--mut);font-size:.8rem}
+.tw{overflow-x:auto;background:var(--card);border:1px solid var(--ln);border-radius:12px}
+table{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums;font-size:.92rem}
+th,td{padding:9px 8px;text-align:right;white-space:nowrap}
+th{color:var(--mut);font-weight:500;border-bottom:1px solid var(--ln)}
+td:first-child,th:first-child{text-align:center;width:2em}
+td:nth-child(2),th:nth-child(2){text-align:left;white-space:normal;min-width:9em;font-weight:500}
+tr+tr td{border-top:1px solid var(--ln)}
+td.pt{font-weight:800}
+.note,.msg{color:var(--mut);font-size:.85rem;margin:10px 2px}
+.msg{font-size:1rem;text-align:center;padding:40px 10px}
+footer{color:var(--mut);font-size:.78rem;text-align:center;padding:4px 0 20px}
+</style>
+</head>
+<body>
+<header>
+  <h1>Serie A Rugby</h1>
+  <div class="row" id="gironi" role="group" aria-label="Girone"></div>
+  <div class="tabs" role="tablist">
+    <button role="tab" id="tp" aria-selected="true">Partite</button>
+    <button role="tab" id="tc" aria-selected="false">Classifica</button>
+  </div>
+</header>
+<main id="app"><p class="msg">Caricamento…</p></main>
+<footer id="ft"></footer>
+<script>
+const $=s=>document.querySelector(s);
+let D=null,G=[],gi=0,gio=0,view='p';
+
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fmt=iso=>{if(!iso)return'Data da definire';const d=new Date(iso);
+  return d.toLocaleDateString('it-IT',{weekday:'short',day:'numeric',month:'short'})+', '+
+         d.toLocaleTimeString('it-IT',{hour:'2-digit',minute:'2-digit'})};
+
+async function load(){
+  try{
+    const r=await fetch('data.json',{cache:'no-cache'});
+    if(!r.ok)throw 0;
+    D=await r.json();
+  }catch(e){
+    $('#app').innerHTML='<p class="msg">Dati non disponibili.<br>Controlla la connessione e riapri l\u2019app.</p>';
+    return;
+  }
+  G=D.fasi.flatMap(f=>f.gironi.map(g=>({g,label:D.fasi.length>1?f.nome+', '+g.nome:g.nome})));
+  gi=Math.min(+localStorage.gi||0,G.length-1);
+  pickGiornata();
+  $('#gironi').innerHTML=G.map((x,i)=>`<button class="chip" data-i="${i}">${esc(x.label)}</button>`).join('');
+  const d=new Date(D.aggiornato);
+  $('#ft').textContent='Dati aggiornati il '+d.toLocaleString('it-IT',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'});
+  render();
+}
+
+function pickGiornata(){
+  const gs=G[gi].g.giornate;
+  const i=gs.findIndex(x=>x.partite.some(p=>!p.giocata));
+  gio=i<0?gs.length-1:i;
+}
+
+function render(){
+  document.querySelectorAll('.chip').forEach((b,i)=>b.setAttribute('aria-pressed',i===gi));
+  $('#tp').setAttribute('aria-selected',view==='p');
+  $('#tc').setAttribute('aria-selected',view==='c');
+  $('#app').innerHTML=view==='p'?partite():classifica();
+}
+
+function partite(){
+  const g=G[gi].g,gs=g.giornate,x=gs[gio];
+  if(!x)return'<p class="msg">Nessuna partita in calendario.</p>';
+  const nm=id=>esc(g.squadre[id]?.nome||id);
+  const cards=x.partite.map(p=>{
+    const cw=p.giocata&&p.punti_casa>p.punti_ospite,ow=p.giocata&&p.punti_ospite>p.punti_casa;
+    return `<div class="m"><div class="dt">${fmt(p.inizio)}</div>
+      <div class="r"><span class="t${cw?' w':''}">${nm(p.casa)}</span>
+      <span class="s${p.giocata?'':' np'}">${p.giocata?p.punti_casa+' - '+p.punti_ospite:'da giocare'}</span>
+      <span class="t a${ow?' w':''}">${nm(p.ospite)}</span></div>
+      ${p.campo?`<div class="cp">${esc(p.campo)}</div>`:''}</div>`}).join('');
+  return `<div class="nav">
+    <button data-d="-1" aria-label="Giornata precedente" ${gio===0?'disabled':''}>&lsaquo;</button>
+    <b>${esc(x.nome.replace(/ 0(\d)/,' $1'))}<small>${esc((x.tipo||'').toLowerCase())}</small></b>
+    <button data-d="1" aria-label="Giornata successiva" ${gio===gs.length-1?'disabled':''}>&rsaquo;</button></div>${cards}`;
+}
+
+function calcola(g){
+  const T={};
+  for(const id in g.squadre)T[id]={id,g:0,v:0,n:0,p:0,pf:0,ps:0,pt:0};
+  for(const x of g.giornate)for(const m of x.partite){
+    if(!m.giocata)continue;
+    const a=T[m.casa],b=T[m.ospite];
+    a.g++;b.g++;a.pf+=m.punti_casa;a.ps+=m.punti_ospite;b.pf+=m.punti_ospite;b.ps+=m.punti_casa;
+    if(m.punti_casa>m.punti_ospite){a.v++;b.p++;a.pt+=4}
+    else if(m.punti_casa<m.punti_ospite){b.v++;a.p++;b.pt+=4}
+    else{a.n++;b.n++;a.pt+=2;b.pt+=2}
+  }
+  return Object.values(T).sort((x,y)=>y.pt-x.pt||(y.pf-y.ps)-(x.pf-x.ps)||y.pf-x.pf);
+}
+
+function classifica(){
+  const g=G[gi].g,raw=g.classifica_raw;
+  // Classifica ufficiale: formato da verificare dopo le prime giornate.
+  if(Array.isArray(raw)&&raw.length&&typeof raw[0]==='object'){
+    const cols=Object.keys(raw[0]).filter(k=>typeof raw[0][k]!=='object');
+    return `<div class="tw"><table><thead><tr>${cols.map(k=>`<th>${esc(k)}</th>`).join('')}</tr></thead><tbody>`+
+      raw.map(r=>`<tr>${cols.map(k=>`<td>${esc(r[k])}</td>`).join('')}</tr>`).join('')+'</tbody></table></div>';
+  }
+  const T=calcola(g);
+  if(!T.some(t=>t.g))return '<p class="msg">La classifica sarà disponibile dopo la prima giornata.</p>';
+  return `<div class="tw"><table><thead><tr><th>#</th><th>Squadra</th><th>G</th><th>V</th><th>N</th><th>P</th><th>PF</th><th>PS</th><th>Pt</th></tr></thead><tbody>`+
+    T.map((t,i)=>`<tr><td>${i+1}</td><td>${esc(g.squadre[t.id].nome)}</td><td>${t.g}</td><td>${t.v}</td><td>${t.n}</td><td>${t.p}</td><td>${t.pf}</td><td>${t.ps}</td><td class="pt">${t.pt}</td></tr>`).join('')+
+    '</tbody></table></div><p class="note">Classifica provvisoria calcolata dai risultati: non include i punti di bonus.</p>';
+}
+
+document.addEventListener('click',e=>{
+  const c=e.target.closest('.chip'),n=e.target.closest('[data-d]');
+  if(c){gi=+c.dataset.i;localStorage.gi=gi;pickGiornata();render()}
+  else if(n){gio+=+n.dataset.d;render()}
+  else if(e.target.id==='tp'){view='p';render()}
+  else if(e.target.id==='tc'){view='c';render()}
+});
+load();
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js');
+</script>
+</body>
+</html>
