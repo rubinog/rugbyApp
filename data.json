@@ -1,6 +1,6 @@
 {
  "categoria": "SERIE A1",
- "aggiornato": "2026-10-08T20:08:02+00:00",
+ "aggiornato": "2026-10-09T00:49:40+00:00",
  "fasi": [
   {
    "nome": "Fase Regolare",
@@ -350,7 +350,6218 @@
       {
        "nome": "Giornata 05",
        "tipo": "Andata",
-       "partite": []
+       "partite": [
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "vii-rugby-torino-ssd-a-r-l",
+         "ospite": "piacenza-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE RUGBY N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "isweb-avezzano-rugby",
+         "ospite": "asd-pesaro-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO DEL RUGBY ANGELO TROMBETTA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "ospite": "unione-rugby-capitolina-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"GIUSEPPE BANCHINI\" N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "rugby-calvisano-ssd-arl",
+         "ospite": "amatori-rugby-alghero-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SAN MICHELE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "livorno-rugby-ssd-s-r-l",
+         "ospite": "rugby-club-cavalieri-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C. MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "cus-torino-asd",
+         "ospite": "valsugana-rugby-junior-padova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ALBONICO N.1 (GUGLIELMINO)",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 06",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "rugby-club-cavalieri-ssd-a-r-l",
+         "ospite": "vii-rugby-torino-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "amatori-rugby-alghero-asd",
+         "ospite": "isweb-avezzano-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARIA PIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "ospite": "livorno-rugby-ssd-s-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"GIUSEPPE BANCHINI\" N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "unione-rugby-capitolina-asd",
+         "ospite": "rugby-calvisano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO DELL'UNIONE N.1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "piacenza-rugby-club-asd",
+         "ospite": "valsugana-rugby-junior-padova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "WALTER BELTRAMETTI  N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "asd-pesaro-rugby",
+         "ospite": "cus-torino-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO TOTI PATRIGNANI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 07",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "vii-rugby-torino-ssd-a-r-l",
+         "ospite": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE RUGBY N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "isweb-avezzano-rugby",
+         "ospite": "piacenza-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO DEL RUGBY ANGELO TROMBETTA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "livorno-rugby-ssd-s-r-l",
+         "ospite": "unione-rugby-capitolina-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C. MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "rugby-calvisano-ssd-arl",
+         "ospite": "rugby-club-cavalieri-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SAN MICHELE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "cus-torino-asd",
+         "ospite": "amatori-rugby-alghero-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ALBONICO N.1 (GUGLIELMINO)",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "valsugana-rugby-junior-padova-asd",
+         "ospite": "asd-pesaro-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VALSUGANA RUGBY PADOVA",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 08",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "amatori-rugby-alghero-asd",
+         "ospite": "vii-rugby-torino-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARIA PIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "livorno-rugby-ssd-s-r-l",
+         "ospite": "isweb-avezzano-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C. MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "ospite": "rugby-calvisano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"GIUSEPPE BANCHINI\" N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "unione-rugby-capitolina-asd",
+         "ospite": "valsugana-rugby-junior-padova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO DELL'UNIONE N.1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "piacenza-rugby-club-asd",
+         "ospite": "cus-torino-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "WALTER BELTRAMETTI  N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "rugby-club-cavalieri-ssd-a-r-l",
+         "ospite": "asd-pesaro-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 09",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "vii-rugby-torino-ssd-a-r-l",
+         "ospite": "unione-rugby-capitolina-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE RUGBY N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "isweb-avezzano-rugby",
+         "ospite": "rugby-club-cavalieri-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO DEL RUGBY ANGELO TROMBETTA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "cus-torino-asd",
+         "ospite": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ALBONICO N.1 (GUGLIELMINO)",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "asd-pesaro-rugby",
+         "ospite": "piacenza-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO TOTI PATRIGNANI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "rugby-calvisano-ssd-arl",
+         "ospite": "livorno-rugby-ssd-s-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SAN MICHELE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "valsugana-rugby-junior-padova-asd",
+         "ospite": "amatori-rugby-alghero-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VALSUGANA RUGBY PADOVA",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 10",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "livorno-rugby-ssd-s-r-l",
+         "ospite": "vii-rugby-torino-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C. MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "rugby-calvisano-ssd-arl",
+         "ospite": "isweb-avezzano-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SAN MICHELE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "ospite": "valsugana-rugby-junior-padova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"GIUSEPPE BANCHINI\" N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "unione-rugby-capitolina-asd",
+         "ospite": "cus-torino-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO DELL'UNIONE N.1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "rugby-club-cavalieri-ssd-a-r-l",
+         "ospite": "piacenza-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "amatori-rugby-alghero-asd",
+         "ospite": "asd-pesaro-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARIA PIA",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 11",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "vii-rugby-torino-ssd-a-r-l",
+         "ospite": "rugby-calvisano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE RUGBY N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "isweb-avezzano-rugby",
+         "ospite": "unione-rugby-capitolina-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO DEL RUGBY ANGELO TROMBETTA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "asd-pesaro-rugby",
+         "ospite": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO TOTI PATRIGNANI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "piacenza-rugby-club-asd",
+         "ospite": "amatori-rugby-alghero-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "WALTER BELTRAMETTI  N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "cus-torino-asd",
+         "ospite": "livorno-rugby-ssd-s-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ALBONICO N.1 (GUGLIELMINO)",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "valsugana-rugby-junior-padova-asd",
+         "ospite": "rugby-club-cavalieri-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VALSUGANA RUGBY PADOVA",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 12",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "isweb-avezzano-rugby",
+         "ospite": "vii-rugby-torino-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO DEL RUGBY ANGELO TROMBETTA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "piacenza-rugby-club-asd",
+         "ospite": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "WALTER BELTRAMETTI  N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "asd-pesaro-rugby",
+         "ospite": "unione-rugby-capitolina-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO TOTI PATRIGNANI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "rugby-calvisano-ssd-arl",
+         "ospite": "valsugana-rugby-junior-padova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SAN MICHELE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "amatori-rugby-alghero-asd",
+         "ospite": "livorno-rugby-ssd-s-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARIA PIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "cus-torino-asd",
+         "ospite": "rugby-club-cavalieri-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ALBONICO N.1 (GUGLIELMINO)",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 13",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "vii-rugby-torino-ssd-a-r-l",
+         "ospite": "asd-pesaro-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE RUGBY N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "ospite": "isweb-avezzano-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"GIUSEPPE BANCHINI\" N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "unione-rugby-capitolina-asd",
+         "ospite": "piacenza-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO DELL'UNIONE N.1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "cus-torino-asd",
+         "ospite": "rugby-calvisano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ALBONICO N.1 (GUGLIELMINO)",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "livorno-rugby-ssd-s-r-l",
+         "ospite": "valsugana-rugby-junior-padova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C. MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "rugby-club-cavalieri-ssd-a-r-l",
+         "ospite": "amatori-rugby-alghero-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 14",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "valsugana-rugby-junior-padova-asd",
+         "ospite": "vii-rugby-torino-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VALSUGANA RUGBY PADOVA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "cus-torino-asd",
+         "ospite": "isweb-avezzano-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ALBONICO N.1 (GUGLIELMINO)",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "amatori-rugby-alghero-asd",
+         "ospite": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARIA PIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "rugby-club-cavalieri-ssd-a-r-l",
+         "ospite": "unione-rugby-capitolina-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "piacenza-rugby-club-asd",
+         "ospite": "rugby-calvisano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "WALTER BELTRAMETTI  N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "asd-pesaro-rugby",
+         "ospite": "livorno-rugby-ssd-s-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO TOTI PATRIGNANI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 15",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "vii-rugby-torino-ssd-a-r-l",
+         "ospite": "cus-torino-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE RUGBY N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "isweb-avezzano-rugby",
+         "ospite": "valsugana-rugby-junior-padova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO DEL RUGBY ANGELO TROMBETTA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "ospite": "rugby-club-cavalieri-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"GIUSEPPE BANCHINI\" N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "unione-rugby-capitolina-asd",
+         "ospite": "amatori-rugby-alghero-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO DELL'UNIONE N.1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "livorno-rugby-ssd-s-r-l",
+         "ospite": "piacenza-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C. MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "rugby-calvisano-ssd-arl",
+         "ospite": "asd-pesaro-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SAN MICHELE 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 16",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "piacenza-rugby-club-asd",
+         "ospite": "vii-rugby-torino-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "WALTER BELTRAMETTI  N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "asd-pesaro-rugby",
+         "ospite": "isweb-avezzano-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO TOTI PATRIGNANI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "unione-rugby-capitolina-asd",
+         "ospite": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO DELL'UNIONE N.1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "amatori-rugby-alghero-asd",
+         "ospite": "rugby-calvisano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARIA PIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "rugby-club-cavalieri-ssd-a-r-l",
+         "ospite": "livorno-rugby-ssd-s-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "valsugana-rugby-junior-padova-asd",
+         "ospite": "cus-torino-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VALSUGANA RUGBY PADOVA",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 17",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "vii-rugby-torino-ssd-a-r-l",
+         "ospite": "rugby-club-cavalieri-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE RUGBY N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "isweb-avezzano-rugby",
+         "ospite": "amatori-rugby-alghero-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO DEL RUGBY ANGELO TROMBETTA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "livorno-rugby-ssd-s-r-l",
+         "ospite": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C. MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "rugby-calvisano-ssd-arl",
+         "ospite": "unione-rugby-capitolina-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SAN MICHELE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "valsugana-rugby-junior-padova-asd",
+         "ospite": "piacenza-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VALSUGANA RUGBY PADOVA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "cus-torino-asd",
+         "ospite": "asd-pesaro-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ALBONICO N.1 (GUGLIELMINO)",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 18",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "ospite": "vii-rugby-torino-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"GIUSEPPE BANCHINI\" N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "piacenza-rugby-club-asd",
+         "ospite": "isweb-avezzano-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "WALTER BELTRAMETTI  N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "unione-rugby-capitolina-asd",
+         "ospite": "livorno-rugby-ssd-s-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO DELL'UNIONE N.1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "rugby-club-cavalieri-ssd-a-r-l",
+         "ospite": "rugby-calvisano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "amatori-rugby-alghero-asd",
+         "ospite": "cus-torino-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARIA PIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "asd-pesaro-rugby",
+         "ospite": "valsugana-rugby-junior-padova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO TOTI PATRIGNANI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 19",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "vii-rugby-torino-ssd-a-r-l",
+         "ospite": "amatori-rugby-alghero-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE RUGBY N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "isweb-avezzano-rugby",
+         "ospite": "livorno-rugby-ssd-s-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO DEL RUGBY ANGELO TROMBETTA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "rugby-calvisano-ssd-arl",
+         "ospite": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SAN MICHELE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "valsugana-rugby-junior-padova-asd",
+         "ospite": "unione-rugby-capitolina-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VALSUGANA RUGBY PADOVA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "cus-torino-asd",
+         "ospite": "piacenza-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ALBONICO N.1 (GUGLIELMINO)",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "asd-pesaro-rugby",
+         "ospite": "rugby-club-cavalieri-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO TOTI PATRIGNANI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 20",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "unione-rugby-capitolina-asd",
+         "ospite": "vii-rugby-torino-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO DELL'UNIONE N.1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "rugby-club-cavalieri-ssd-a-r-l",
+         "ospite": "isweb-avezzano-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "ospite": "cus-torino-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"GIUSEPPE BANCHINI\" N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "piacenza-rugby-club-asd",
+         "ospite": "asd-pesaro-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "WALTER BELTRAMETTI  N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "livorno-rugby-ssd-s-r-l",
+         "ospite": "rugby-calvisano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C. MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "amatori-rugby-alghero-asd",
+         "ospite": "valsugana-rugby-junior-padova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARIA PIA",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 21",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-05-09T15:30",
+         "casa": "vii-rugby-torino-ssd-a-r-l",
+         "ospite": "livorno-rugby-ssd-s-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE RUGBY N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-05-09T15:30",
+         "casa": "isweb-avezzano-rugby",
+         "ospite": "rugby-calvisano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO DEL RUGBY ANGELO TROMBETTA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-05-09T15:30",
+         "casa": "valsugana-rugby-junior-padova-asd",
+         "ospite": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VALSUGANA RUGBY PADOVA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-05-09T15:30",
+         "casa": "cus-torino-asd",
+         "ospite": "unione-rugby-capitolina-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ALBONICO N.1 (GUGLIELMINO)",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-05-09T15:30",
+         "casa": "piacenza-rugby-club-asd",
+         "ospite": "rugby-club-cavalieri-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "WALTER BELTRAMETTI  N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-05-09T15:30",
+         "casa": "asd-pesaro-rugby",
+         "ospite": "amatori-rugby-alghero-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO TOTI PATRIGNANI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 22",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-05-16T15:30",
+         "casa": "rugby-calvisano-ssd-arl",
+         "ospite": "vii-rugby-torino-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SAN MICHELE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-05-16T15:30",
+         "casa": "unione-rugby-capitolina-asd",
+         "ospite": "isweb-avezzano-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO DELL'UNIONE N.1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-05-16T15:30",
+         "casa": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "ospite": "asd-pesaro-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"GIUSEPPE BANCHINI\" N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-05-16T15:30",
+         "casa": "amatori-rugby-alghero-asd",
+         "ospite": "piacenza-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARIA PIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-05-16T15:30",
+         "casa": "livorno-rugby-ssd-s-r-l",
+         "ospite": "cus-torino-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C. MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-05-16T15:30",
+         "casa": "rugby-club-cavalieri-ssd-a-r-l",
+         "ospite": "valsugana-rugby-junior-padova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO MONTANO",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "nome": "Girone 2",
+     "classifica_raw": [],
+     "squadre": {
+      "amatori-union-rugby-milano-ssd-arl": {
+       "ufficiale": "AMATORI&UNION RUGBY MILANO SSD ARL",
+       "nome": "Amatori&Union Rugby Milano"
+      },
+      "modena-rugby-1965-soc-coop-sd": {
+       "ufficiale": "MODENA RUGBY 1965 SOC.COOP. SD",
+       "nome": "Modena Rugby 1965"
+      },
+      "brixia-a-s-d": {
+       "ufficiale": "BRIXIA A.S.D.",
+       "nome": "Brixia"
+      },
+      "asd-rugby-lecco": {
+       "ufficiale": "ASD RUGBY LECCO",
+       "nome": "Rugby Lecco"
+      },
+      "italian-floor-design-r-bergamo-1950": {
+       "ufficiale": "ITALIAN FLOOR DESIGN R.BERGAMO 1950",
+       "nome": "Italian Floor Design R.Bergamo 1950"
+      },
+      "asd-unione-monferrato-rugby": {
+       "ufficiale": "ASD UNIONE MONFERRATO RUGBY",
+       "nome": "Unione Monferrato Rugby"
+      },
+      "rugby-milano-asd": {
+       "ufficiale": "RUGBY MILANO ASD",
+       "nome": "Rugby Milano"
+      },
+      "c-u-s-genova-asd": {
+       "ufficiale": "C.U.S. GENOVA ASD",
+       "nome": "C.U.S. Genova"
+      },
+      "cus-milano-rugby-asd": {
+       "ufficiale": "CUS MILANO RUGBY ASD",
+       "nome": "Cus Milano Rugby"
+      },
+      "rugby-viadana-1970-ssd-arl": {
+       "ufficiale": "RUGBY VIADANA 1970 SSD ARL",
+       "nome": "Rugby Viadana 1970"
+      },
+      "rugby-rovato-asd": {
+       "ufficiale": "RUGBY ROVATO ASD",
+       "nome": "Rugby Rovato"
+      },
+      "stade-valdotain-rugby-asd": {
+       "ufficiale": "STADE VALDOTAIN RUGBY ASD",
+       "nome": "Stade Valdotain Rugby"
+      }
+     },
+     "giornate": [
+      {
+       "nome": "Giornata 01",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "amatori-union-rugby-milano-ssd-arl",
+         "ospite": "modena-rugby-1965-soc-coop-sd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO GF. CRESPI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "brixia-a-s-d",
+         "ospite": "asd-rugby-lecco",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ASO STADIUM",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "italian-floor-design-r-bergamo-1950",
+         "ospite": "asd-unione-monferrato-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SGHIRLANZONI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "rugby-milano-asd",
+         "ospite": "c-u-s-genova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"PROF. G.B. CURIONI\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "cus-milano-rugby-asd",
+         "ospite": "rugby-viadana-1970-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO M. GIURIATI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "rugby-rovato-asd",
+         "ospite": "stade-valdotain-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO G. E S.PAGANI N 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 02",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "asd-unione-monferrato-rugby",
+         "ospite": "amatori-union-rugby-milano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA DEL RUGBY LUNGO TANARO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "modena-rugby-1965-soc-coop-sd",
+         "ospite": "brixia-a-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "IMPIANTO COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "asd-rugby-lecco",
+         "ospite": "italian-floor-design-r-bergamo-1950",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. DEL BIONE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "stade-valdotain-rugby-asd",
+         "ospite": "rugby-milano-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE SARRE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "c-u-s-genova-asd",
+         "ospite": "cus-milano-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO CARLINI-BOLLESAN",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "rugby-viadana-1970-ssd-arl",
+         "ospite": "rugby-rovato-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO L.ZAFFANELLA N 2",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 03",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-10-31T16:00",
+         "casa": "cus-milano-rugby-asd",
+         "ospite": "asd-unione-monferrato-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO M. GIURIATI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "amatori-union-rugby-milano-ssd-arl",
+         "ospite": "c-u-s-genova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO GF. CRESPI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "modena-rugby-1965-soc-coop-sd",
+         "ospite": "stade-valdotain-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "IMPIANTO COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "brixia-a-s-d",
+         "ospite": "rugby-viadana-1970-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ASO STADIUM",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "italian-floor-design-r-bergamo-1950",
+         "ospite": "rugby-rovato-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SGHIRLANZONI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "rugby-milano-asd",
+         "ospite": "asd-rugby-lecco",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"PROF. G.B. CURIONI\"",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 04",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "stade-valdotain-rugby-asd",
+         "ospite": "amatori-union-rugby-milano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE SARRE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "c-u-s-genova-asd",
+         "ospite": "modena-rugby-1965-soc-coop-sd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO CARLINI-BOLLESAN",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "rugby-rovato-asd",
+         "ospite": "brixia-a-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO G. E S.PAGANI N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "rugby-viadana-1970-ssd-arl",
+         "ospite": "italian-floor-design-r-bergamo-1950",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO L.ZAFFANELLA N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "asd-rugby-lecco",
+         "ospite": "cus-milano-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. DEL BIONE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "asd-unione-monferrato-rugby",
+         "ospite": "rugby-milano-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA DEL RUGBY LUNGO TANARO 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 05",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "amatori-union-rugby-milano-ssd-arl",
+         "ospite": "asd-rugby-lecco",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO GF. CRESPI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "modena-rugby-1965-soc-coop-sd",
+         "ospite": "asd-unione-monferrato-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "IMPIANTO COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "brixia-a-s-d",
+         "ospite": "italian-floor-design-r-bergamo-1950",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ASO STADIUM",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "rugby-milano-asd",
+         "ospite": "rugby-viadana-1970-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"PROF. G.B. CURIONI\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "cus-milano-rugby-asd",
+         "ospite": "rugby-rovato-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO M. GIURIATI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "stade-valdotain-rugby-asd",
+         "ospite": "c-u-s-genova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE SARRE",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 06",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "rugby-rovato-asd",
+         "ospite": "amatori-union-rugby-milano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO G. E S.PAGANI N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "rugby-viadana-1970-ssd-arl",
+         "ospite": "modena-rugby-1965-soc-coop-sd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO L.ZAFFANELLA N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "brixia-a-s-d",
+         "ospite": "cus-milano-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ASO STADIUM",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "italian-floor-design-r-bergamo-1950",
+         "ospite": "rugby-milano-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SGHIRLANZONI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "asd-rugby-lecco",
+         "ospite": "c-u-s-genova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. DEL BIONE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "asd-unione-monferrato-rugby",
+         "ospite": "stade-valdotain-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA DEL RUGBY LUNGO TANARO 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 07",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-12-06T12:30",
+         "casa": "cus-milano-rugby-asd",
+         "ospite": "italian-floor-design-r-bergamo-1950",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO M. GIURIATI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T12:30",
+         "casa": "c-u-s-genova-asd",
+         "ospite": "asd-unione-monferrato-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO CARLINI-BOLLESAN",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "amatori-union-rugby-milano-ssd-arl",
+         "ospite": "brixia-a-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO GF. CRESPI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "modena-rugby-1965-soc-coop-sd",
+         "ospite": "asd-rugby-lecco",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "IMPIANTO COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "rugby-milano-asd",
+         "ospite": "rugby-rovato-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"PROF. G.B. CURIONI\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "stade-valdotain-rugby-asd",
+         "ospite": "rugby-viadana-1970-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE SARRE",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 08",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "rugby-viadana-1970-ssd-arl",
+         "ospite": "amatori-union-rugby-milano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO L.ZAFFANELLA N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "cus-milano-rugby-asd",
+         "ospite": "modena-rugby-1965-soc-coop-sd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO M. GIURIATI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "brixia-a-s-d",
+         "ospite": "rugby-milano-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ASO STADIUM",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "italian-floor-design-r-bergamo-1950",
+         "ospite": "c-u-s-genova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SGHIRLANZONI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "asd-rugby-lecco",
+         "ospite": "stade-valdotain-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. DEL BIONE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "rugby-rovato-asd",
+         "ospite": "asd-unione-monferrato-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO G. E S.PAGANI N 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 09",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "amatori-union-rugby-milano-ssd-arl",
+         "ospite": "italian-floor-design-r-bergamo-1950",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO GF. CRESPI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "modena-rugby-1965-soc-coop-sd",
+         "ospite": "rugby-rovato-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "IMPIANTO COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "stade-valdotain-rugby-asd",
+         "ospite": "brixia-a-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE SARRE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "asd-unione-monferrato-rugby",
+         "ospite": "asd-rugby-lecco",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA DEL RUGBY LUNGO TANARO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "rugby-milano-asd",
+         "ospite": "cus-milano-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"PROF. G.B. CURIONI\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "c-u-s-genova-asd",
+         "ospite": "rugby-viadana-1970-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO CARLINI-BOLLESAN",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 10",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2027-01-10T12:30",
+         "casa": "cus-milano-rugby-asd",
+         "ospite": "amatori-union-rugby-milano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO M. GIURIATI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "rugby-milano-asd",
+         "ospite": "modena-rugby-1965-soc-coop-sd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"PROF. G.B. CURIONI\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "brixia-a-s-d",
+         "ospite": "c-u-s-genova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ASO STADIUM",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "italian-floor-design-r-bergamo-1950",
+         "ospite": "stade-valdotain-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SGHIRLANZONI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "rugby-rovato-asd",
+         "ospite": "asd-rugby-lecco",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO G. E S.PAGANI N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "rugby-viadana-1970-ssd-arl",
+         "ospite": "asd-unione-monferrato-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO L.ZAFFANELLA N 2",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 11",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "amatori-union-rugby-milano-ssd-arl",
+         "ospite": "rugby-milano-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO GF. CRESPI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "modena-rugby-1965-soc-coop-sd",
+         "ospite": "italian-floor-design-r-bergamo-1950",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "IMPIANTO COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "asd-unione-monferrato-rugby",
+         "ospite": "brixia-a-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA DEL RUGBY LUNGO TANARO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "asd-rugby-lecco",
+         "ospite": "rugby-viadana-1970-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. DEL BIONE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "stade-valdotain-rugby-asd",
+         "ospite": "cus-milano-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE SARRE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "c-u-s-genova-asd",
+         "ospite": "rugby-rovato-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO CARLINI-BOLLESAN",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 12",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "modena-rugby-1965-soc-coop-sd",
+         "ospite": "amatori-union-rugby-milano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "IMPIANTO COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "asd-rugby-lecco",
+         "ospite": "brixia-a-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. DEL BIONE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "asd-unione-monferrato-rugby",
+         "ospite": "italian-floor-design-r-bergamo-1950",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA DEL RUGBY LUNGO TANARO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "c-u-s-genova-asd",
+         "ospite": "rugby-milano-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO CARLINI-BOLLESAN",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "rugby-viadana-1970-ssd-arl",
+         "ospite": "cus-milano-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO L.ZAFFANELLA N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "stade-valdotain-rugby-asd",
+         "ospite": "rugby-rovato-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE SARRE",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 13",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "amatori-union-rugby-milano-ssd-arl",
+         "ospite": "asd-unione-monferrato-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO GF. CRESPI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "brixia-a-s-d",
+         "ospite": "modena-rugby-1965-soc-coop-sd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ASO STADIUM",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "italian-floor-design-r-bergamo-1950",
+         "ospite": "asd-rugby-lecco",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SGHIRLANZONI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "rugby-milano-asd",
+         "ospite": "stade-valdotain-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"PROF. G.B. CURIONI\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "cus-milano-rugby-asd",
+         "ospite": "c-u-s-genova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO M. GIURIATI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "rugby-rovato-asd",
+         "ospite": "rugby-viadana-1970-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO G. E S.PAGANI N 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 14",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "c-u-s-genova-asd",
+         "ospite": "amatori-union-rugby-milano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO CARLINI-BOLLESAN",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "stade-valdotain-rugby-asd",
+         "ospite": "modena-rugby-1965-soc-coop-sd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE SARRE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "rugby-viadana-1970-ssd-arl",
+         "ospite": "brixia-a-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO L.ZAFFANELLA N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "rugby-rovato-asd",
+         "ospite": "italian-floor-design-r-bergamo-1950",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO G. E S.PAGANI N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "asd-rugby-lecco",
+         "ospite": "rugby-milano-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. DEL BIONE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "asd-unione-monferrato-rugby",
+         "ospite": "cus-milano-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA DEL RUGBY LUNGO TANARO 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 15",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-02-21T12:30",
+         "casa": "cus-milano-rugby-asd",
+         "ospite": "asd-rugby-lecco",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO M. GIURIATI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "amatori-union-rugby-milano-ssd-arl",
+         "ospite": "stade-valdotain-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO GF. CRESPI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "modena-rugby-1965-soc-coop-sd",
+         "ospite": "c-u-s-genova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "IMPIANTO COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "brixia-a-s-d",
+         "ospite": "rugby-rovato-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ASO STADIUM",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "italian-floor-design-r-bergamo-1950",
+         "ospite": "rugby-viadana-1970-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SGHIRLANZONI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "rugby-milano-asd",
+         "ospite": "asd-unione-monferrato-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"PROF. G.B. CURIONI\"",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 16",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "asd-rugby-lecco",
+         "ospite": "amatori-union-rugby-milano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. DEL BIONE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "asd-unione-monferrato-rugby",
+         "ospite": "modena-rugby-1965-soc-coop-sd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA DEL RUGBY LUNGO TANARO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "italian-floor-design-r-bergamo-1950",
+         "ospite": "brixia-a-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SGHIRLANZONI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "rugby-viadana-1970-ssd-arl",
+         "ospite": "rugby-milano-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO L.ZAFFANELLA N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "rugby-rovato-asd",
+         "ospite": "cus-milano-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO G. E S.PAGANI N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "c-u-s-genova-asd",
+         "ospite": "stade-valdotain-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO CARLINI-BOLLESAN",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 17",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "amatori-union-rugby-milano-ssd-arl",
+         "ospite": "rugby-rovato-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO GF. CRESPI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "modena-rugby-1965-soc-coop-sd",
+         "ospite": "rugby-viadana-1970-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "IMPIANTO COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "cus-milano-rugby-asd",
+         "ospite": "brixia-a-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO M. GIURIATI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "rugby-milano-asd",
+         "ospite": "italian-floor-design-r-bergamo-1950",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"PROF. G.B. CURIONI\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "c-u-s-genova-asd",
+         "ospite": "asd-rugby-lecco",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO CARLINI-BOLLESAN",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "stade-valdotain-rugby-asd",
+         "ospite": "asd-unione-monferrato-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE SARRE",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 18",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "brixia-a-s-d",
+         "ospite": "amatori-union-rugby-milano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ASO STADIUM",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "asd-rugby-lecco",
+         "ospite": "modena-rugby-1965-soc-coop-sd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. DEL BIONE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "italian-floor-design-r-bergamo-1950",
+         "ospite": "cus-milano-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SGHIRLANZONI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "rugby-rovato-asd",
+         "ospite": "rugby-milano-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO G. E S.PAGANI N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "rugby-viadana-1970-ssd-arl",
+         "ospite": "stade-valdotain-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO L.ZAFFANELLA N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "asd-unione-monferrato-rugby",
+         "ospite": "c-u-s-genova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA DEL RUGBY LUNGO TANARO 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 19",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "amatori-union-rugby-milano-ssd-arl",
+         "ospite": "rugby-viadana-1970-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO GF. CRESPI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "modena-rugby-1965-soc-coop-sd",
+         "ospite": "cus-milano-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "IMPIANTO COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "rugby-milano-asd",
+         "ospite": "brixia-a-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"PROF. G.B. CURIONI\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "c-u-s-genova-asd",
+         "ospite": "italian-floor-design-r-bergamo-1950",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO CARLINI-BOLLESAN",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "stade-valdotain-rugby-asd",
+         "ospite": "asd-rugby-lecco",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE SARRE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "asd-unione-monferrato-rugby",
+         "ospite": "rugby-rovato-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA DEL RUGBY LUNGO TANARO 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 20",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-11T12:30",
+         "casa": "cus-milano-rugby-asd",
+         "ospite": "rugby-milano-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO M. GIURIATI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "italian-floor-design-r-bergamo-1950",
+         "ospite": "amatori-union-rugby-milano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SGHIRLANZONI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "rugby-rovato-asd",
+         "ospite": "modena-rugby-1965-soc-coop-sd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO G. E S.PAGANI N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "brixia-a-s-d",
+         "ospite": "stade-valdotain-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ASO STADIUM",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "asd-rugby-lecco",
+         "ospite": "asd-unione-monferrato-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. DEL BIONE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "rugby-viadana-1970-ssd-arl",
+         "ospite": "c-u-s-genova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO L.ZAFFANELLA N 2",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 21",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "amatori-union-rugby-milano-ssd-arl",
+         "ospite": "cus-milano-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO GF. CRESPI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "modena-rugby-1965-soc-coop-sd",
+         "ospite": "rugby-milano-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "IMPIANTO COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "c-u-s-genova-asd",
+         "ospite": "brixia-a-s-d",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO CARLINI-BOLLESAN",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "stade-valdotain-rugby-asd",
+         "ospite": "italian-floor-design-r-bergamo-1950",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE SARRE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "asd-rugby-lecco",
+         "ospite": "rugby-rovato-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. DEL BIONE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "asd-unione-monferrato-rugby",
+         "ospite": "rugby-viadana-1970-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA DEL RUGBY LUNGO TANARO 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 22",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "rugby-milano-asd",
+         "ospite": "amatori-union-rugby-milano-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"PROF. G.B. CURIONI\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "italian-floor-design-r-bergamo-1950",
+         "ospite": "modena-rugby-1965-soc-coop-sd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SGHIRLANZONI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "brixia-a-s-d",
+         "ospite": "asd-unione-monferrato-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ASO STADIUM",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "rugby-viadana-1970-ssd-arl",
+         "ospite": "asd-rugby-lecco",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO L.ZAFFANELLA N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "cus-milano-rugby-asd",
+         "ospite": "stade-valdotain-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO M. GIURIATI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "rugby-rovato-asd",
+         "ospite": "c-u-s-genova-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO G. E S.PAGANI N 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "nome": "Girone 3",
+     "classifica_raw": [],
+     "squadre": {
+      "rugby-casale-asd": {
+       "ufficiale": "RUGBY CASALE ASD",
+       "nome": "Rugby Casale"
+      },
+      "romagna-r-f-c-ssd-a-r-l": {
+       "ufficiale": "ROMAGNA R.F.C. SSD A R.L.",
+       "nome": "Romagna R.F.C"
+      },
+      "bologna-rugby-club-asd": {
+       "ufficiale": "BOLOGNA RUGBY CLUB ASD",
+       "nome": "Bologna Rugby Club"
+      },
+      "unione-rugby-firenze-asd": {
+       "ufficiale": "UNIONE RUGBY FIRENZE ASD",
+       "nome": "Unione Rugby Firenze"
+      },
+      "omar-villorba-rugby": {
+       "ufficiale": "OMAR VILLORBA RUGBY",
+       "nome": "Omar Villorba Rugby"
+      },
+      "rugby-san-dona-1959-ssd-a-r-l": {
+       "ufficiale": "RUGBY SAN DONA'1959 SSD A R.L.",
+       "nome": "Rugby San Dona'1959"
+      },
+      "ruggers-tarvisium-asd": {
+       "ufficiale": "RUGGERS TARVISIUM ASD",
+       "nome": "Ruggers Tarvisium"
+      },
+      "patavium-rugby-union-asd": {
+       "ufficiale": "PATAVIUM RUGBY UNION ASD",
+       "nome": "Patavium Rugby Union"
+      },
+      "asd-rugby-paese": {
+       "ufficiale": "ASD RUGBY PAESE",
+       "nome": "Rugby Paese"
+      },
+      "rugby-junior-badia-2-0-ssd-arl": {
+       "ufficiale": "RUGBY JUNIOR BADIA 2.0 SSD ARL",
+       "nome": "Rugby Junior Badia 2.0"
+      },
+      "asd-rugby-feltre": {
+       "ufficiale": "ASD RUGBY FELTRE",
+       "nome": "Rugby Feltre"
+      },
+      "valpolicella-rugby-1974-asd": {
+       "ufficiale": "VALPOLICELLA RUGBY 1974 ASD",
+       "nome": "Valpolicella Rugby 1974"
+      }
+     },
+     "giornate": [
+      {
+       "nome": "Giornata 01",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "rugby-casale-asd",
+         "ospite": "romagna-r-f-c-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE \"EUGENIO\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "bologna-rugby-club-asd",
+         "ospite": "unione-rugby-firenze-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S.PIER PAOLO BONORI CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "omar-villorba-rugby",
+         "ospite": "rugby-san-dona-1959-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "ruggers-tarvisium-asd",
+         "ospite": "patavium-rugby-union-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE RUGBY MONIGO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "asd-rugby-paese",
+         "ospite": "rugby-junior-badia-2-0-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE \"G. VISENTIN\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "asd-rugby-feltre",
+         "ospite": "valpolicella-rugby-1974-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO BOSCHERAI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 02",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "rugby-san-dona-1959-ssd-a-r-l",
+         "ospite": "rugby-casale-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO MARIO E ROMOLO PACIFICI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "romagna-r-f-c-ssd-a-r-l",
+         "ospite": "bologna-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CERVESE SUD CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "unione-rugby-firenze-asd",
+         "ospite": "omar-villorba-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARCO POLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "valpolicella-rugby-1974-asd",
+         "ospite": "ruggers-tarvisium-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "patavium-rugby-union-asd",
+         "ospite": "asd-rugby-paese",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE RUGBY PRINCIPALE RP",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "rugby-junior-badia-2-0-ssd-arl",
+         "ospite": "asd-rugby-feltre",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "NUOVI I.S.COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 03",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "rugby-casale-asd",
+         "ospite": "patavium-rugby-union-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE \"EUGENIO\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "romagna-r-f-c-ssd-a-r-l",
+         "ospite": "valpolicella-rugby-1974-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CERVESE SUD CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "bologna-rugby-club-asd",
+         "ospite": "rugby-junior-badia-2-0-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S.PIER PAOLO BONORI CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "omar-villorba-rugby",
+         "ospite": "asd-rugby-feltre",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "ruggers-tarvisium-asd",
+         "ospite": "unione-rugby-firenze-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE RUGBY MONIGO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "asd-rugby-paese",
+         "ospite": "rugby-san-dona-1959-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE \"G. VISENTIN\"",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 04",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "valpolicella-rugby-1974-asd",
+         "ospite": "rugby-casale-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "patavium-rugby-union-asd",
+         "ospite": "romagna-r-f-c-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE RUGBY PRINCIPALE RP",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "asd-rugby-feltre",
+         "ospite": "bologna-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO BOSCHERAI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "rugby-junior-badia-2-0-ssd-arl",
+         "ospite": "omar-villorba-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "NUOVI I.S.COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "unione-rugby-firenze-asd",
+         "ospite": "asd-rugby-paese",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARCO POLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "rugby-san-dona-1959-ssd-a-r-l",
+         "ospite": "ruggers-tarvisium-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO MARIO E ROMOLO PACIFICI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 05",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "rugby-casale-asd",
+         "ospite": "unione-rugby-firenze-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE \"EUGENIO\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "romagna-r-f-c-ssd-a-r-l",
+         "ospite": "rugby-san-dona-1959-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CERVESE SUD CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "bologna-rugby-club-asd",
+         "ospite": "omar-villorba-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S.PIER PAOLO BONORI CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "ruggers-tarvisium-asd",
+         "ospite": "rugby-junior-badia-2-0-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE RUGBY MONIGO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "asd-rugby-paese",
+         "ospite": "asd-rugby-feltre",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE \"G. VISENTIN\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "valpolicella-rugby-1974-asd",
+         "ospite": "patavium-rugby-union-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 06",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-11-29T12:30",
+         "casa": "omar-villorba-rugby",
+         "ospite": "ruggers-tarvisium-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "asd-rugby-feltre",
+         "ospite": "rugby-casale-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO BOSCHERAI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "rugby-junior-badia-2-0-ssd-arl",
+         "ospite": "romagna-r-f-c-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "NUOVI I.S.COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "bologna-rugby-club-asd",
+         "ospite": "asd-rugby-paese",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S.PIER PAOLO BONORI CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "unione-rugby-firenze-asd",
+         "ospite": "patavium-rugby-union-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARCO POLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "rugby-san-dona-1959-ssd-a-r-l",
+         "ospite": "valpolicella-rugby-1974-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO MARIO E ROMOLO PACIFICI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 07",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-12-06T12:30",
+         "casa": "romagna-r-f-c-ssd-a-r-l",
+         "ospite": "unione-rugby-firenze-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CERVESE SUD CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "rugby-casale-asd",
+         "ospite": "bologna-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE \"EUGENIO\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "asd-rugby-paese",
+         "ospite": "omar-villorba-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE \"G. VISENTIN\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "ruggers-tarvisium-asd",
+         "ospite": "asd-rugby-feltre",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE RUGBY MONIGO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "valpolicella-rugby-1974-asd",
+         "ospite": "rugby-junior-badia-2-0-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "patavium-rugby-union-asd",
+         "ospite": "rugby-san-dona-1959-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE RUGBY PRINCIPALE RP",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 08",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "rugby-junior-badia-2-0-ssd-arl",
+         "ospite": "rugby-casale-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "NUOVI I.S.COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "asd-rugby-paese",
+         "ospite": "romagna-r-f-c-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE \"G. VISENTIN\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "bologna-rugby-club-asd",
+         "ospite": "ruggers-tarvisium-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S.PIER PAOLO BONORI CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "omar-villorba-rugby",
+         "ospite": "patavium-rugby-union-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "unione-rugby-firenze-asd",
+         "ospite": "valpolicella-rugby-1974-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARCO POLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "asd-rugby-feltre",
+         "ospite": "rugby-san-dona-1959-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO BOSCHERAI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 09",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "rugby-casale-asd",
+         "ospite": "omar-villorba-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE \"EUGENIO\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "romagna-r-f-c-ssd-a-r-l",
+         "ospite": "asd-rugby-feltre",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CERVESE SUD CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "valpolicella-rugby-1974-asd",
+         "ospite": "bologna-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "rugby-san-dona-1959-ssd-a-r-l",
+         "ospite": "unione-rugby-firenze-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO MARIO E ROMOLO PACIFICI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "ruggers-tarvisium-asd",
+         "ospite": "asd-rugby-paese",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE RUGBY MONIGO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "patavium-rugby-union-asd",
+         "ospite": "rugby-junior-badia-2-0-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE RUGBY PRINCIPALE RP",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 10",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "asd-rugby-paese",
+         "ospite": "rugby-casale-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE \"G. VISENTIN\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "ruggers-tarvisium-asd",
+         "ospite": "romagna-r-f-c-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE RUGBY MONIGO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "bologna-rugby-club-asd",
+         "ospite": "patavium-rugby-union-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S.PIER PAOLO BONORI CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "omar-villorba-rugby",
+         "ospite": "valpolicella-rugby-1974-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "asd-rugby-feltre",
+         "ospite": "unione-rugby-firenze-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO BOSCHERAI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "rugby-junior-badia-2-0-ssd-arl",
+         "ospite": "rugby-san-dona-1959-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "NUOVI I.S.COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 11",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "rugby-casale-asd",
+         "ospite": "ruggers-tarvisium-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE \"EUGENIO\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "romagna-r-f-c-ssd-a-r-l",
+         "ospite": "omar-villorba-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CERVESE SUD CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "rugby-san-dona-1959-ssd-a-r-l",
+         "ospite": "bologna-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO MARIO E ROMOLO PACIFICI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "unione-rugby-firenze-asd",
+         "ospite": "rugby-junior-badia-2-0-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARCO POLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "valpolicella-rugby-1974-asd",
+         "ospite": "asd-rugby-paese",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "patavium-rugby-union-asd",
+         "ospite": "asd-rugby-feltre",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE RUGBY PRINCIPALE RP",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 12",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "romagna-r-f-c-ssd-a-r-l",
+         "ospite": "rugby-casale-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CERVESE SUD CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "unione-rugby-firenze-asd",
+         "ospite": "bologna-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARCO POLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "rugby-san-dona-1959-ssd-a-r-l",
+         "ospite": "omar-villorba-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO MARIO E ROMOLO PACIFICI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "patavium-rugby-union-asd",
+         "ospite": "ruggers-tarvisium-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE RUGBY PRINCIPALE RP",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "rugby-junior-badia-2-0-ssd-arl",
+         "ospite": "asd-rugby-paese",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "NUOVI I.S.COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "valpolicella-rugby-1974-asd",
+         "ospite": "asd-rugby-feltre",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 13",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "rugby-casale-asd",
+         "ospite": "rugby-san-dona-1959-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE \"EUGENIO\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "bologna-rugby-club-asd",
+         "ospite": "romagna-r-f-c-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S.PIER PAOLO BONORI CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "omar-villorba-rugby",
+         "ospite": "unione-rugby-firenze-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "ruggers-tarvisium-asd",
+         "ospite": "valpolicella-rugby-1974-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE RUGBY MONIGO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "asd-rugby-paese",
+         "ospite": "patavium-rugby-union-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE \"G. VISENTIN\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "asd-rugby-feltre",
+         "ospite": "rugby-junior-badia-2-0-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO BOSCHERAI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 14",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "patavium-rugby-union-asd",
+         "ospite": "rugby-casale-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE RUGBY PRINCIPALE RP",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "valpolicella-rugby-1974-asd",
+         "ospite": "romagna-r-f-c-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "rugby-junior-badia-2-0-ssd-arl",
+         "ospite": "bologna-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "NUOVI I.S.COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "asd-rugby-feltre",
+         "ospite": "omar-villorba-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO BOSCHERAI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "unione-rugby-firenze-asd",
+         "ospite": "ruggers-tarvisium-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARCO POLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "rugby-san-dona-1959-ssd-a-r-l",
+         "ospite": "asd-rugby-paese",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO MARIO E ROMOLO PACIFICI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 15",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "rugby-casale-asd",
+         "ospite": "valpolicella-rugby-1974-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE \"EUGENIO\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "romagna-r-f-c-ssd-a-r-l",
+         "ospite": "patavium-rugby-union-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CERVESE SUD CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "bologna-rugby-club-asd",
+         "ospite": "asd-rugby-feltre",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S.PIER PAOLO BONORI CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "omar-villorba-rugby",
+         "ospite": "rugby-junior-badia-2-0-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "asd-rugby-paese",
+         "ospite": "unione-rugby-firenze-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE \"G. VISENTIN\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "ruggers-tarvisium-asd",
+         "ospite": "rugby-san-dona-1959-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE RUGBY MONIGO",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 16",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "unione-rugby-firenze-asd",
+         "ospite": "rugby-casale-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARCO POLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "rugby-san-dona-1959-ssd-a-r-l",
+         "ospite": "romagna-r-f-c-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO MARIO E ROMOLO PACIFICI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "omar-villorba-rugby",
+         "ospite": "bologna-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "rugby-junior-badia-2-0-ssd-arl",
+         "ospite": "ruggers-tarvisium-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "NUOVI I.S.COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "asd-rugby-feltre",
+         "ospite": "asd-rugby-paese",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO BOSCHERAI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "patavium-rugby-union-asd",
+         "ospite": "valpolicella-rugby-1974-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE RUGBY PRINCIPALE RP",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 17",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "rugby-casale-asd",
+         "ospite": "asd-rugby-feltre",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE \"EUGENIO\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "romagna-r-f-c-ssd-a-r-l",
+         "ospite": "rugby-junior-badia-2-0-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CERVESE SUD CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "asd-rugby-paese",
+         "ospite": "bologna-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE \"G. VISENTIN\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "ruggers-tarvisium-asd",
+         "ospite": "omar-villorba-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE RUGBY MONIGO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "patavium-rugby-union-asd",
+         "ospite": "unione-rugby-firenze-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE RUGBY PRINCIPALE RP",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "valpolicella-rugby-1974-asd",
+         "ospite": "rugby-san-dona-1959-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 18",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "bologna-rugby-club-asd",
+         "ospite": "rugby-casale-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S.PIER PAOLO BONORI CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "unione-rugby-firenze-asd",
+         "ospite": "romagna-r-f-c-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARCO POLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "omar-villorba-rugby",
+         "ospite": "asd-rugby-paese",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "asd-rugby-feltre",
+         "ospite": "ruggers-tarvisium-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO BOSCHERAI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "rugby-junior-badia-2-0-ssd-arl",
+         "ospite": "valpolicella-rugby-1974-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "NUOVI I.S.COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "rugby-san-dona-1959-ssd-a-r-l",
+         "ospite": "patavium-rugby-union-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO MARIO E ROMOLO PACIFICI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 19",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "rugby-casale-asd",
+         "ospite": "rugby-junior-badia-2-0-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE \"EUGENIO\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "romagna-r-f-c-ssd-a-r-l",
+         "ospite": "asd-rugby-paese",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CERVESE SUD CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "ruggers-tarvisium-asd",
+         "ospite": "bologna-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE RUGBY MONIGO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "patavium-rugby-union-asd",
+         "ospite": "omar-villorba-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE RUGBY PRINCIPALE RP",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "valpolicella-rugby-1974-asd",
+         "ospite": "unione-rugby-firenze-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "rugby-san-dona-1959-ssd-a-r-l",
+         "ospite": "asd-rugby-feltre",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO MARIO E ROMOLO PACIFICI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 20",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "omar-villorba-rugby",
+         "ospite": "rugby-casale-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "asd-rugby-feltre",
+         "ospite": "romagna-r-f-c-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO BOSCHERAI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "bologna-rugby-club-asd",
+         "ospite": "valpolicella-rugby-1974-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S.PIER PAOLO BONORI CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "unione-rugby-firenze-asd",
+         "ospite": "rugby-san-dona-1959-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARCO POLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "asd-rugby-paese",
+         "ospite": "ruggers-tarvisium-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE \"G. VISENTIN\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "rugby-junior-badia-2-0-ssd-arl",
+         "ospite": "patavium-rugby-union-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "NUOVI I.S.COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 21",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "rugby-casale-asd",
+         "ospite": "asd-rugby-paese",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE \"EUGENIO\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "romagna-r-f-c-ssd-a-r-l",
+         "ospite": "ruggers-tarvisium-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CERVESE SUD CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "patavium-rugby-union-asd",
+         "ospite": "bologna-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE RUGBY PRINCIPALE RP",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "valpolicella-rugby-1974-asd",
+         "ospite": "omar-villorba-rugby",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "unione-rugby-firenze-asd",
+         "ospite": "asd-rugby-feltre",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO MARCO POLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "rugby-san-dona-1959-ssd-a-r-l",
+         "ospite": "rugby-junior-badia-2-0-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO MARIO E ROMOLO PACIFICI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 22",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "ruggers-tarvisium-asd",
+         "ospite": "rugby-casale-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO COMUNALE RUGBY MONIGO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "omar-villorba-rugby",
+         "ospite": "romagna-r-f-c-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COMUNALE 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "bologna-rugby-club-asd",
+         "ospite": "rugby-san-dona-1959-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S.PIER PAOLO BONORI CAMPO 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "rugby-junior-badia-2-0-ssd-arl",
+         "ospite": "unione-rugby-firenze-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "NUOVI I.S.COM. CAMPO N1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "asd-rugby-paese",
+         "ospite": "valpolicella-rugby-1974-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COMUNALE \"G. VISENTIN\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "asd-rugby-feltre",
+         "ospite": "patavium-rugby-union-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO BOSCHERAI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "nome": "Girone 4",
+     "classifica_raw": [],
+     "squadre": {
+      "rugby-roma-olimpic-club-1930-asd": {
+       "ufficiale": "RUGBY ROMA OLIMPIC CLUB 1930 ASD",
+       "nome": "Rugby Roma Olimpic Club 1930"
+      },
+      "asd-rugby-gubbio-1984": {
+       "ufficiale": "ASD RUGBY GUBBIO 1984",
+       "nome": "Rugby Gubbio 1984"
+      },
+      "fifasecurity": {
+       "ufficiale": "FIFASECURITY",
+       "nome": "Fifasecurity"
+      },
+      "us-roma-rugby-ssd-r-l": {
+       "ufficiale": "US ROMA RUGBY SSD R.L.",
+       "nome": "Us Roma Rugby R.L"
+      },
+      "polisportiva-paganica-rugby-asd": {
+       "ufficiale": "POLISPORTIVA PAGANICA RUGBY ASD",
+       "nome": "Polisportiva Paganica Rugby"
+      },
+      "rugby-lions-alto-lazio-asd": {
+       "ufficiale": "RUGBY LIONS ALTO LAZIO ASD",
+       "nome": "Rugby Lions Alto Lazio"
+      },
+      "primavera-rugby-asd": {
+       "ufficiale": "PRIMAVERA RUGBY ASD",
+       "nome": "Primavera Rugby"
+      },
+      "rna-ssd-a-r-l": {
+       "ufficiale": "RNA SSD A R.L.",
+       "nome": "Rna"
+      },
+      "asd-cus-catania": {
+       "ufficiale": "ASD CUS CATANIA",
+       "nome": "Cus Catania"
+      },
+      "pol-s-s-lazio-rugby-1927-ad": {
+       "ufficiale": "POL. S.S. LAZIO RUGBY 1927 AD",
+       "nome": "Pol. S.S. Lazio Rugby 1927 Ad"
+      },
+      "rugby-perugia-ssd-arl": {
+       "ufficiale": "RUGBY PERUGIA SSD ARL",
+       "nome": "Rugby Perugia"
+      },
+      "la-rugby-l-aquila-2021-ssd-arl": {
+       "ufficiale": "LA RUGBY L'AQUILA 2021 SSD ARL",
+       "nome": "La Rugby L'Aquila 2021"
+      }
+     },
+     "giornate": [
+      {
+       "nome": "Giornata 01",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-10-17T15:30",
+         "casa": "primavera-rugby-asd",
+         "ospite": "rna-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "rugby-roma-olimpic-club-1930-asd",
+         "ospite": "asd-rugby-gubbio-1984",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CENTRO SPORTIVO RENATO SPEZIALI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "fifasecurity",
+         "ospite": "us-roma-rugby-ssd-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COM.DA RUGBY \"NELSON MANDELA\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "polisportiva-paganica-rugby-asd",
+         "ospite": "rugby-lions-alto-lazio-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ENRICO IOVENITTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "asd-cus-catania",
+         "ospite": "pol-s-s-lazio-rugby-1927-ad",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA UNIVERSITARIA DI CATANIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "rugby-perugia-ssd-arl",
+         "ospite": "la-rugby-l-aquila-2021-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO PIAN DI MASSIANO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 02",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "rugby-lions-alto-lazio-asd",
+         "ospite": "rugby-roma-olimpic-club-1930-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO ANGELETTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "pol-s-s-lazio-rugby-1927-ad",
+         "ospite": "fifasecurity",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. \"G. ONESTI\"CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "rna-ssd-a-r-l",
+         "ospite": "polisportiva-paganica-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VILLAGGIO DEL RUGBY",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "la-rugby-l-aquila-2021-ssd-arl",
+         "ospite": "primavera-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO TOMMASO FATTORI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "us-roma-rugby-ssd-r-l",
+         "ospite": "asd-cus-catania",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T14:30",
+         "casa": "asd-rugby-gubbio-1984",
+         "ospite": "rugby-perugia-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COPPIOLO",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 03",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-10-31T14:30",
+         "casa": "rugby-roma-olimpic-club-1930-asd",
+         "ospite": "rna-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CENTRO SPORTIVO RENATO SPEZIALI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "fifasecurity",
+         "ospite": "la-rugby-l-aquila-2021-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COM.DA RUGBY \"NELSON MANDELA\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "polisportiva-paganica-rugby-asd",
+         "ospite": "asd-rugby-gubbio-1984",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ENRICO IOVENITTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "primavera-rugby-asd",
+         "ospite": "pol-s-s-lazio-rugby-1927-ad",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "asd-cus-catania",
+         "ospite": "rugby-lions-alto-lazio-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA UNIVERSITARIA DI CATANIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-01T14:30",
+         "casa": "rugby-perugia-ssd-arl",
+         "ospite": "us-roma-rugby-ssd-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO PIAN DI MASSIANO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 04",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-11-08T12:30",
+         "casa": "la-rugby-l-aquila-2021-ssd-arl",
+         "ospite": "polisportiva-paganica-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO TOMMASO FATTORI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "rugby-roma-olimpic-club-1930-asd",
+         "ospite": "primavera-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CENTRO SPORTIVO RENATO SPEZIALI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "rugby-lions-alto-lazio-asd",
+         "ospite": "fifasecurity",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SANDRO QUATRINI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "asd-rugby-gubbio-1984",
+         "ospite": "asd-cus-catania",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COPPIOLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "us-roma-rugby-ssd-r-l",
+         "ospite": "pol-s-s-lazio-rugby-1927-ad",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T14:30",
+         "casa": "rna-ssd-a-r-l",
+         "ospite": "rugby-perugia-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VILLAGGIO DEL RUGBY",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 05",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "fifasecurity",
+         "ospite": "rugby-roma-olimpic-club-1930-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COM.DA RUGBY \"NELSON MANDELA\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "polisportiva-paganica-rugby-asd",
+         "ospite": "primavera-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ENRICO IOVENITTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "asd-cus-catania",
+         "ospite": "rna-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA UNIVERSITARIA DI CATANIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "us-roma-rugby-ssd-r-l",
+         "ospite": "asd-rugby-gubbio-1984",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "rugby-perugia-ssd-arl",
+         "ospite": "rugby-lions-alto-lazio-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO PIAN DI MASSIANO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-15T14:30",
+         "casa": "pol-s-s-lazio-rugby-1927-ad",
+         "ospite": "la-rugby-l-aquila-2021-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. \"G. ONESTI\"CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 06",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "rugby-roma-olimpic-club-1930-asd",
+         "ospite": "polisportiva-paganica-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CENTRO SPORTIVO RENATO SPEZIALI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "rna-ssd-a-r-l",
+         "ospite": "fifasecurity",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VILLAGGIO DEL RUGBY",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "primavera-rugby-asd",
+         "ospite": "rugby-lions-alto-lazio-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "asd-cus-catania",
+         "ospite": "rugby-perugia-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA UNIVERSITARIA DI CATANIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "la-rugby-l-aquila-2021-ssd-arl",
+         "ospite": "us-roma-rugby-ssd-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO TOMMASO FATTORI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-29T14:30",
+         "casa": "asd-rugby-gubbio-1984",
+         "ospite": "pol-s-s-lazio-rugby-1927-ad",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COPPIOLO",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 07",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-12-05T14:30",
+         "casa": "us-roma-rugby-ssd-r-l",
+         "ospite": "rna-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "pol-s-s-lazio-rugby-1927-ad",
+         "ospite": "rugby-roma-olimpic-club-1930-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. \"G. ONESTI\"CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "fifasecurity",
+         "ospite": "asd-rugby-gubbio-1984",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COM.DA RUGBY \"NELSON MANDELA\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "polisportiva-paganica-rugby-asd",
+         "ospite": "asd-cus-catania",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ENRICO IOVENITTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "rugby-perugia-ssd-arl",
+         "ospite": "primavera-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO PIAN DI MASSIANO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-06T14:30",
+         "casa": "rugby-lions-alto-lazio-asd",
+         "ospite": "la-rugby-l-aquila-2021-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO ANGELETTI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 08",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-12-12T14:30",
+         "casa": "rna-ssd-a-r-l",
+         "ospite": "pol-s-s-lazio-rugby-1927-ad",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VILLAGGIO DEL RUGBY",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "rugby-roma-olimpic-club-1930-asd",
+         "ospite": "us-roma-rugby-ssd-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CENTRO SPORTIVO RENATO SPEZIALI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "primavera-rugby-asd",
+         "ospite": "fifasecurity",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "polisportiva-paganica-rugby-asd",
+         "ospite": "rugby-perugia-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ENRICO IOVENITTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "asd-cus-catania",
+         "ospite": "la-rugby-l-aquila-2021-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA UNIVERSITARIA DI CATANIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-13T14:30",
+         "casa": "asd-rugby-gubbio-1984",
+         "ospite": "rugby-lions-alto-lazio-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COPPIOLO",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 09",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "rugby-perugia-ssd-arl",
+         "ospite": "rugby-roma-olimpic-club-1930-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO PIAN DI MASSIANO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "fifasecurity",
+         "ospite": "asd-cus-catania",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COM.DA RUGBY \"NELSON MANDELA\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "pol-s-s-lazio-rugby-1927-ad",
+         "ospite": "polisportiva-paganica-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. \"G. ONESTI\"CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "us-roma-rugby-ssd-r-l",
+         "ospite": "primavera-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "la-rugby-l-aquila-2021-ssd-arl",
+         "ospite": "asd-rugby-gubbio-1984",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO TOMMASO FATTORI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-12-20T14:30",
+         "casa": "rugby-lions-alto-lazio-asd",
+         "ospite": "rna-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SANDRO QUATRINI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 10",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2027-01-09T14:30",
+         "casa": "rna-ssd-a-r-l",
+         "ospite": "la-rugby-l-aquila-2021-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VILLAGGIO DEL RUGBY",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "rugby-roma-olimpic-club-1930-asd",
+         "ospite": "asd-cus-catania",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CENTRO SPORTIVO RENATO SPEZIALI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "polisportiva-paganica-rugby-asd",
+         "ospite": "fifasecurity",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ENRICO IOVENITTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "primavera-rugby-asd",
+         "ospite": "asd-rugby-gubbio-1984",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "rugby-lions-alto-lazio-asd",
+         "ospite": "us-roma-rugby-ssd-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO ANGELETTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-10T14:30",
+         "casa": "rugby-perugia-ssd-arl",
+         "ospite": "pol-s-s-lazio-rugby-1927-ad",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO PIAN DI MASSIANO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 11",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "la-rugby-l-aquila-2021-ssd-arl",
+         "ospite": "rugby-roma-olimpic-club-1930-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO TOMMASO FATTORI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "fifasecurity",
+         "ospite": "rugby-perugia-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COM.DA RUGBY \"NELSON MANDELA\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "us-roma-rugby-ssd-r-l",
+         "ospite": "polisportiva-paganica-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "asd-cus-catania",
+         "ospite": "primavera-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA UNIVERSITARIA DI CATANIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "asd-rugby-gubbio-1984",
+         "ospite": "rna-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COPPIOLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-17T14:30",
+         "casa": "pol-s-s-lazio-rugby-1927-ad",
+         "ospite": "rugby-lions-alto-lazio-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. \"G. ONESTI\"CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 12",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-01-23T14:30",
+         "casa": "rna-ssd-a-r-l",
+         "ospite": "primavera-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VILLAGGIO DEL RUGBY",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "asd-rugby-gubbio-1984",
+         "ospite": "rugby-roma-olimpic-club-1930-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COPPIOLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "us-roma-rugby-ssd-r-l",
+         "ospite": "fifasecurity",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "rugby-lions-alto-lazio-asd",
+         "ospite": "polisportiva-paganica-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO ANGELETTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "pol-s-s-lazio-rugby-1927-ad",
+         "ospite": "asd-cus-catania",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. \"G. ONESTI\"CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-24T14:30",
+         "casa": "la-rugby-l-aquila-2021-ssd-arl",
+         "ospite": "rugby-perugia-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO TOMMASO FATTORI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 13",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "rugby-roma-olimpic-club-1930-asd",
+         "ospite": "rugby-lions-alto-lazio-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CENTRO SPORTIVO RENATO SPEZIALI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "fifasecurity",
+         "ospite": "pol-s-s-lazio-rugby-1927-ad",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COM.DA RUGBY \"NELSON MANDELA\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "polisportiva-paganica-rugby-asd",
+         "ospite": "rna-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ENRICO IOVENITTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "primavera-rugby-asd",
+         "ospite": "la-rugby-l-aquila-2021-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "asd-cus-catania",
+         "ospite": "us-roma-rugby-ssd-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA UNIVERSITARIA DI CATANIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-01-31T14:30",
+         "casa": "rugby-perugia-ssd-arl",
+         "ospite": "asd-rugby-gubbio-1984",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO PIAN DI MASSIANO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 14",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-02-06T14:30",
+         "casa": "rna-ssd-a-r-l",
+         "ospite": "rugby-roma-olimpic-club-1930-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VILLAGGIO DEL RUGBY",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "la-rugby-l-aquila-2021-ssd-arl",
+         "ospite": "fifasecurity",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO TOMMASO FATTORI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "asd-rugby-gubbio-1984",
+         "ospite": "polisportiva-paganica-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COPPIOLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "pol-s-s-lazio-rugby-1927-ad",
+         "ospite": "primavera-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. \"G. ONESTI\"CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "rugby-lions-alto-lazio-asd",
+         "ospite": "asd-cus-catania",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SANDRO QUATRINI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-07T14:30",
+         "casa": "us-roma-rugby-ssd-r-l",
+         "ospite": "rugby-perugia-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 15",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "primavera-rugby-asd",
+         "ospite": "rugby-roma-olimpic-club-1930-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "fifasecurity",
+         "ospite": "rugby-lions-alto-lazio-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COM.DA RUGBY \"NELSON MANDELA\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "polisportiva-paganica-rugby-asd",
+         "ospite": "la-rugby-l-aquila-2021-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ENRICO IOVENITTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "asd-cus-catania",
+         "ospite": "asd-rugby-gubbio-1984",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA UNIVERSITARIA DI CATANIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "pol-s-s-lazio-rugby-1927-ad",
+         "ospite": "us-roma-rugby-ssd-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. \"G. ONESTI\"CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-21T14:30",
+         "casa": "rugby-perugia-ssd-arl",
+         "ospite": "rna-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO PIAN DI MASSIANO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 16",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "rugby-roma-olimpic-club-1930-asd",
+         "ospite": "fifasecurity",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CENTRO SPORTIVO RENATO SPEZIALI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "primavera-rugby-asd",
+         "ospite": "polisportiva-paganica-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "rna-ssd-a-r-l",
+         "ospite": "asd-cus-catania",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VILLAGGIO DEL RUGBY",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "asd-rugby-gubbio-1984",
+         "ospite": "us-roma-rugby-ssd-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COPPIOLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "rugby-lions-alto-lazio-asd",
+         "ospite": "rugby-perugia-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SANDRO QUATRINI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-02-28T14:30",
+         "casa": "la-rugby-l-aquila-2021-ssd-arl",
+         "ospite": "pol-s-s-lazio-rugby-1927-ad",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO TOMMASO FATTORI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 17",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "polisportiva-paganica-rugby-asd",
+         "ospite": "rugby-roma-olimpic-club-1930-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ENRICO IOVENITTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "fifasecurity",
+         "ospite": "rna-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COM.DA RUGBY \"NELSON MANDELA\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "rugby-lions-alto-lazio-asd",
+         "ospite": "primavera-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO ANGELETTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "rugby-perugia-ssd-arl",
+         "ospite": "asd-cus-catania",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO PIAN DI MASSIANO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "us-roma-rugby-ssd-r-l",
+         "ospite": "la-rugby-l-aquila-2021-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-07T14:30",
+         "casa": "pol-s-s-lazio-rugby-1927-ad",
+         "ospite": "asd-rugby-gubbio-1984",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. \"G. ONESTI\"CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 18",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-03-20T14:30",
+         "casa": "rna-ssd-a-r-l",
+         "ospite": "us-roma-rugby-ssd-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VILLAGGIO DEL RUGBY",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "rugby-roma-olimpic-club-1930-asd",
+         "ospite": "pol-s-s-lazio-rugby-1927-ad",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CENTRO SPORTIVO RENATO SPEZIALI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "asd-rugby-gubbio-1984",
+         "ospite": "fifasecurity",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COPPIOLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "asd-cus-catania",
+         "ospite": "polisportiva-paganica-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA UNIVERSITARIA DI CATANIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "primavera-rugby-asd",
+         "ospite": "rugby-perugia-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-03-21T14:30",
+         "casa": "la-rugby-l-aquila-2021-ssd-arl",
+         "ospite": "rugby-lions-alto-lazio-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO TOMMASO FATTORI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 19",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-03T15:30",
+         "casa": "pol-s-s-lazio-rugby-1927-ad",
+         "ospite": "rna-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. \"G. ONESTI\"CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "us-roma-rugby-ssd-r-l",
+         "ospite": "rugby-roma-olimpic-club-1930-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "fifasecurity",
+         "ospite": "primavera-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COM.DA RUGBY \"NELSON MANDELA\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "rugby-perugia-ssd-arl",
+         "ospite": "polisportiva-paganica-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO PIAN DI MASSIANO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "la-rugby-l-aquila-2021-ssd-arl",
+         "ospite": "asd-cus-catania",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO TOMMASO FATTORI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-04T15:30",
+         "casa": "rugby-lions-alto-lazio-asd",
+         "ospite": "asd-rugby-gubbio-1984",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO SANDRO QUATRINI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 20",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "rugby-roma-olimpic-club-1930-asd",
+         "ospite": "rugby-perugia-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CENTRO SPORTIVO RENATO SPEZIALI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "asd-cus-catania",
+         "ospite": "fifasecurity",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA UNIVERSITARIA DI CATANIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "polisportiva-paganica-rugby-asd",
+         "ospite": "pol-s-s-lazio-rugby-1927-ad",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ENRICO IOVENITTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "primavera-rugby-asd",
+         "ospite": "us-roma-rugby-ssd-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "asd-rugby-gubbio-1984",
+         "ospite": "la-rugby-l-aquila-2021-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COPPIOLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-11T15:30",
+         "casa": "rna-ssd-a-r-l",
+         "ospite": "rugby-lions-alto-lazio-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VILLAGGIO DEL RUGBY",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 21",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "asd-cus-catania",
+         "ospite": "rugby-roma-olimpic-club-1930-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CITTADELLA UNIVERSITARIA DI CATANIA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "fifasecurity",
+         "ospite": "polisportiva-paganica-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO COM.DA RUGBY \"NELSON MANDELA\"",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "asd-rugby-gubbio-1984",
+         "ospite": "primavera-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "COPPIOLO",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "us-roma-rugby-ssd-r-l",
+         "ospite": "rugby-lions-alto-lazio-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "pol-s-s-lazio-rugby-1927-ad",
+         "ospite": "rugby-perugia-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "C.S. \"G. ONESTI\"CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-18T15:30",
+         "casa": "la-rugby-l-aquila-2021-ssd-arl",
+         "ospite": "rna-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO TOMMASO FATTORI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 22",
+       "tipo": "Ritorno",
+       "partite": [
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "rugby-roma-olimpic-club-1930-asd",
+         "ospite": "la-rugby-l-aquila-2021-ssd-arl",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CENTRO SPORTIVO RENATO SPEZIALI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "rugby-perugia-ssd-arl",
+         "ospite": "fifasecurity",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO PIAN DI MASSIANO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "polisportiva-paganica-rugby-asd",
+         "ospite": "us-roma-rugby-ssd-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "ENRICO IOVENITTI",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "primavera-rugby-asd",
+         "ospite": "asd-cus-catania",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "rna-ssd-a-r-l",
+         "ospite": "asd-rugby-gubbio-1984",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "VILLAGGIO DEL RUGBY",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2027-04-25T15:30",
+         "casa": "rugby-lions-alto-lazio-asd",
+         "ospite": "pol-s-s-lazio-rugby-1927-ad",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO CARLO ANGELETTI",
+         "provvisorio": false,
+         "rettificato": false
+        }
+       ]
       }
      ]
     }
