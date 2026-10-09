@@ -1,6 +1,6 @@
 {
  "categoria": "SERIE A1",
- "aggiornato": "2026-10-09T00:49:40+00:00",
+ "aggiornato": "2026-10-09T09:48:31+00:00",
  "fasi": [
   {
    "nome": "Fase Regolare",
@@ -64,17 +64,6 @@
        "tipo": "Andata",
        "partite": [
         {
-         "inizio": "2026-10-18T12:30",
-         "casa": "rugby-parma-f-c-1931-soc-coop-s-d",
-         "ospite": "piacenza-rugby-club-asd",
-         "punti_casa": null,
-         "punti_ospite": null,
-         "giocata": false,
-         "campo": "CAMPO \"GIUSEPPE BANCHINI\" N 1",
-         "provvisorio": false,
-         "rettificato": false
-        },
-        {
          "inizio": "2026-10-18T15:30",
          "casa": "vii-rugby-torino-ssd-a-r-l",
          "ospite": "isweb-avezzano-rugby",
@@ -82,6 +71,17 @@
          "punti_ospite": null,
          "giocata": false,
          "campo": "CAMPO COMUNALE RUGBY N 2",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-18T15:30",
+         "casa": "rugby-parma-f-c-1931-soc-coop-s-d",
+         "ospite": "piacenza-rugby-club-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO \"GIUSEPPE BANCHINI\" N 1",
          "provvisorio": false,
          "rettificato": false
         },
@@ -147,6 +147,17 @@
          "rettificato": false
         },
         {
+         "inizio": "2026-10-25T12:00",
+         "casa": "piacenza-rugby-club-asd",
+         "ospite": "unione-rugby-capitolina-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "WALTER BELTRAMETTI  N 1",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
          "inizio": "2026-10-25T14:30",
          "casa": "asd-pesaro-rugby",
          "ospite": "vii-rugby-torino-ssd-a-r-l",
@@ -165,17 +176,6 @@
          "punti_ospite": null,
          "giocata": false,
          "campo": "STADIO DEL RUGBY ANGELO TROMBETTA",
-         "provvisorio": false,
-         "rettificato": false
-        },
-        {
-         "inizio": "2026-10-25T14:30",
-         "casa": "piacenza-rugby-club-asd",
-         "ospite": "unione-rugby-capitolina-asd",
-         "punti_casa": null,
-         "punti_ospite": null,
-         "giocata": false,
-         "campo": "WALTER BELTRAMETTI  N 1",
          "provvisorio": false,
          "rettificato": false
         },
