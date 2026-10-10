@@ -1,6 +1,6 @@
 {
  "categoria": "SERIE A1",
- "aggiornato": "2026-10-09T22:00:24+00:00",
+ "aggiornato": "2026-10-10T03:21:50+00:00",
  "fasi": [
   {
    "nome": "Fase Regolare",
@@ -5200,17 +5200,6 @@
        "tipo": "Andata",
        "partite": [
         {
-         "inizio": "2026-11-08T12:30",
-         "casa": "la-rugby-l-aquila-2021-ssd-arl",
-         "ospite": "polisportiva-paganica-rugby-asd",
-         "punti_casa": null,
-         "punti_ospite": null,
-         "giocata": false,
-         "campo": "STADIO TOMMASO FATTORI",
-         "provvisorio": false,
-         "rettificato": false
-        },
-        {
          "inizio": "2026-11-08T14:30",
          "casa": "rugby-roma-olimpic-club-1930-asd",
          "ospite": "primavera-rugby-asd",
@@ -5262,6 +5251,17 @@
          "punti_ospite": null,
          "giocata": false,
          "campo": "VILLAGGIO DEL RUGBY",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-11-08T15:00",
+         "casa": "la-rugby-l-aquila-2021-ssd-arl",
+         "ospite": "polisportiva-paganica-rugby-asd",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "STADIO TOMMASO FATTORI",
          "provvisorio": false,
          "rettificato": false
         }
