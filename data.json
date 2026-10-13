@@ -1,6 +1,6 @@
 {
  "categoria": "SERIE A1",
- "aggiornato": "2026-10-12T22:18:55+00:00",
+ "aggiornato": "2026-10-13T04:33:06+00:00",
  "fasi": [
   {
    "nome": "Fase Regolare",
@@ -159,17 +159,6 @@
         },
         {
          "inizio": "2026-10-25T14:30",
-         "casa": "asd-pesaro-rugby",
-         "ospite": "vii-rugby-torino-ssd-a-r-l",
-         "punti_casa": null,
-         "punti_ospite": null,
-         "giocata": false,
-         "campo": "CAMPO TOTI PATRIGNANI",
-         "provvisorio": false,
-         "rettificato": false
-        },
-        {
-         "inizio": "2026-10-25T14:30",
          "casa": "isweb-avezzano-rugby",
          "ospite": "rugby-parma-f-c-1931-soc-coop-s-d",
          "punti_casa": null,
@@ -198,6 +187,17 @@
          "punti_ospite": null,
          "giocata": false,
          "campo": "VALSUGANA RUGBY PADOVA",
+         "provvisorio": false,
+         "rettificato": false
+        },
+        {
+         "inizio": "2026-10-25T15:30",
+         "casa": "asd-pesaro-rugby",
+         "ospite": "vii-rugby-torino-ssd-a-r-l",
+         "punti_casa": null,
+         "punti_ospite": null,
+         "giocata": false,
+         "campo": "CAMPO TOTI PATRIGNANI",
          "provvisorio": false,
          "rettificato": false
         }
@@ -4937,9 +4937,9 @@
        "ufficiale": "ASD RUGBY GUBBIO 1984",
        "nome": "Rugby Gubbio 1984"
       },
-      "fifasecurity": {
-       "ufficiale": "FIFASECURITY",
-       "nome": "Fifasecurity"
+      "fifasecurity-ur-san-benedetto": {
+       "ufficiale": "FIFASECURITY UR SAN BENEDETTO",
+       "nome": "Fifasecurity Ur San Benedetto"
       },
       "us-roma-rugby-ssd-r-l": {
        "ufficiale": "US ROMA RUGBY SSD R.L.",
@@ -5007,7 +5007,7 @@
         },
         {
          "inizio": "2026-10-18T15:30",
-         "casa": "fifasecurity",
+         "casa": "fifasecurity-ur-san-benedetto",
          "ospite": "us-roma-rugby-ssd-r-l",
          "punti_casa": null,
          "punti_ospite": null,
@@ -5069,7 +5069,7 @@
         {
          "inizio": "2026-10-25T14:30",
          "casa": "pol-s-s-lazio-rugby-1927-ad",
-         "ospite": "fifasecurity",
+         "ospite": "fifasecurity-ur-san-benedetto",
          "punti_casa": null,
          "punti_ospite": null,
          "giocata": false,
@@ -5140,7 +5140,7 @@
         },
         {
          "inizio": "2026-11-01T14:30",
-         "casa": "fifasecurity",
+         "casa": "fifasecurity-ur-san-benedetto",
          "ospite": "la-rugby-l-aquila-2021-ssd-arl",
          "punti_casa": null,
          "punti_ospite": null,
@@ -5213,7 +5213,7 @@
         {
          "inizio": "2026-11-08T14:30",
          "casa": "rugby-lions-alto-lazio-asd",
-         "ospite": "fifasecurity",
+         "ospite": "fifasecurity-ur-san-benedetto",
          "punti_casa": null,
          "punti_ospite": null,
          "giocata": false,
@@ -5273,7 +5273,7 @@
        "partite": [
         {
          "inizio": "2026-11-15T14:30",
-         "casa": "fifasecurity",
+         "casa": "fifasecurity-ur-san-benedetto",
          "ospite": "rugby-roma-olimpic-club-1930-asd",
          "punti_casa": null,
          "punti_ospite": null,
@@ -5357,7 +5357,7 @@
         {
          "inizio": "2026-11-29T14:30",
          "casa": "rna-ssd-a-r-l",
-         "ospite": "fifasecurity",
+         "ospite": "fifasecurity-ur-san-benedetto",
          "punti_casa": null,
          "punti_ospite": null,
          "giocata": false,
@@ -5439,7 +5439,7 @@
         },
         {
          "inizio": "2026-12-06T14:30",
-         "casa": "fifasecurity",
+         "casa": "fifasecurity-ur-san-benedetto",
          "ospite": "asd-rugby-gubbio-1984",
          "punti_casa": null,
          "punti_ospite": null,
@@ -5512,7 +5512,7 @@
         {
          "inizio": "2026-12-13T14:30",
          "casa": "primavera-rugby-asd",
-         "ospite": "fifasecurity",
+         "ospite": "fifasecurity-ur-san-benedetto",
          "punti_casa": null,
          "punti_ospite": null,
          "giocata": false,
@@ -5572,7 +5572,7 @@
         },
         {
          "inizio": "2026-12-20T14:30",
-         "casa": "fifasecurity",
+         "casa": "fifasecurity-ur-san-benedetto",
          "ospite": "asd-cus-catania",
          "punti_casa": null,
          "punti_ospite": null,
@@ -5656,7 +5656,7 @@
         {
          "inizio": "2027-01-10T14:30",
          "casa": "polisportiva-paganica-rugby-asd",
-         "ospite": "fifasecurity",
+         "ospite": "fifasecurity-ur-san-benedetto",
          "punti_casa": null,
          "punti_ospite": null,
          "giocata": false,
@@ -5716,7 +5716,7 @@
         },
         {
          "inizio": "2027-01-17T14:30",
-         "casa": "fifasecurity",
+         "casa": "fifasecurity-ur-san-benedetto",
          "ospite": "rugby-perugia-ssd-arl",
          "punti_casa": null,
          "punti_ospite": null,
@@ -5800,7 +5800,7 @@
         {
          "inizio": "2027-01-24T14:30",
          "casa": "us-roma-rugby-ssd-r-l",
-         "ospite": "fifasecurity",
+         "ospite": "fifasecurity-ur-san-benedetto",
          "punti_casa": null,
          "punti_ospite": null,
          "giocata": false,
@@ -5860,7 +5860,7 @@
         },
         {
          "inizio": "2027-01-31T14:30",
-         "casa": "fifasecurity",
+         "casa": "fifasecurity-ur-san-benedetto",
          "ospite": "pol-s-s-lazio-rugby-1927-ad",
          "punti_casa": null,
          "punti_ospite": null,
@@ -5933,7 +5933,7 @@
         {
          "inizio": "2027-02-07T14:30",
          "casa": "la-rugby-l-aquila-2021-ssd-arl",
-         "ospite": "fifasecurity",
+         "ospite": "fifasecurity-ur-san-benedetto",
          "punti_casa": null,
          "punti_ospite": null,
          "giocata": false,
@@ -6004,7 +6004,7 @@
         },
         {
          "inizio": "2027-02-21T14:30",
-         "casa": "fifasecurity",
+         "casa": "fifasecurity-ur-san-benedetto",
          "ospite": "rugby-lions-alto-lazio-asd",
          "punti_casa": null,
          "punti_ospite": null,
@@ -6066,7 +6066,7 @@
         {
          "inizio": "2027-02-28T14:30",
          "casa": "rugby-roma-olimpic-club-1930-asd",
-         "ospite": "fifasecurity",
+         "ospite": "fifasecurity-ur-san-benedetto",
          "punti_casa": null,
          "punti_ospite": null,
          "giocata": false,
@@ -6148,7 +6148,7 @@
         },
         {
          "inizio": "2027-03-07T14:30",
-         "casa": "fifasecurity",
+         "casa": "fifasecurity-ur-san-benedetto",
          "ospite": "rna-ssd-a-r-l",
          "punti_casa": null,
          "punti_ospite": null,
@@ -6232,7 +6232,7 @@
         {
          "inizio": "2027-03-21T14:30",
          "casa": "asd-rugby-gubbio-1984",
-         "ospite": "fifasecurity",
+         "ospite": "fifasecurity-ur-san-benedetto",
          "punti_casa": null,
          "punti_ospite": null,
          "giocata": false,
@@ -6303,7 +6303,7 @@
         },
         {
          "inizio": "2027-04-04T15:30",
-         "casa": "fifasecurity",
+         "casa": "fifasecurity-ur-san-benedetto",
          "ospite": "primavera-rugby-asd",
          "punti_casa": null,
          "punti_ospite": null,
@@ -6365,7 +6365,7 @@
         {
          "inizio": "2027-04-11T15:30",
          "casa": "asd-cus-catania",
-         "ospite": "fifasecurity",
+         "ospite": "fifasecurity-ur-san-benedetto",
          "punti_casa": null,
          "punti_ospite": null,
          "giocata": false,
@@ -6436,7 +6436,7 @@
         },
         {
          "inizio": "2027-04-18T15:30",
-         "casa": "fifasecurity",
+         "casa": "fifasecurity-ur-san-benedetto",
          "ospite": "polisportiva-paganica-rugby-asd",
          "punti_casa": null,
          "punti_ospite": null,
@@ -6509,7 +6509,7 @@
         {
          "inizio": "2027-04-25T15:30",
          "casa": "rugby-perugia-ssd-arl",
-         "ospite": "fifasecurity",
+         "ospite": "fifasecurity-ur-san-benedetto",
          "punti_casa": null,
          "punti_ospite": null,
          "giocata": false,
