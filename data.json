@@ -1,6 +1,6 @@
 {
  "categoria": "SERIE A1",
- "aggiornato": "2026-10-14T23:32:50+00:00",
+ "aggiornato": "2026-10-15T02:22:15+00:00",
  "fasi": [
   {
    "nome": "Fase Regolare",
@@ -1887,7 +1887,7 @@
          "punti_casa": null,
          "punti_ospite": null,
          "giocata": false,
-         "campo": "ASO STADIUM",
+         "campo": "A. INVERNICI N. 1",
          "provvisorio": false,
          "rettificato": false
         },
@@ -3383,7 +3383,7 @@
          "punti_casa": null,
          "punti_ospite": null,
          "giocata": false,
-         "campo": "STADIO COMUNALE RUGBY MONIGO",
+         "campo": "CAMPO FEDERALE SAN PAOLO N. 1",
          "provvisorio": false,
          "rettificato": false
         },
