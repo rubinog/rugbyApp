@@ -1,6 +1,6 @@
 {
  "categoria": "SERIE A1",
- "aggiornato": "2026-10-17T12:34:35+00:00",
+ "aggiornato": "2026-10-17T17:37:48+00:00",
  "fasi": [
   {
    "nome": "Fase Regolare",
@@ -4927,7 +4927,176 @@
     },
     {
      "nome": "Girone 4",
-     "classifica_raw": [],
+     "classifica_raw": [
+      {
+       "logo": "KyxTOFEtUyhWLDM4VC4jJGAKYAo=",
+       "squadra": "PRIMAVERA RUGBY ASD",
+       "punteggio": 5,
+       "mete": 4,
+       "partite_giocate": 1,
+       "partite_vinte": 1,
+       "partite_pareggiate": 0,
+       "partite_perse": 0,
+       "punti_fatti": 32,
+       "punti_subiti": 26,
+       "punti_diff": 6,
+       "penalita": "0"
+      },
+      {
+       "logo": "LC1TQFcsIzxVLjMsUS4zKFkKYAo=",
+       "squadra": "RNA SSD A R.L.",
+       "punteggio": 2,
+       "mete": 4,
+       "partite_giocate": 1,
+       "partite_vinte": 0,
+       "partite_pareggiate": 0,
+       "partite_perse": 1,
+       "punti_fatti": 26,
+       "punti_subiti": 32,
+       "punti_diff": -6,
+       "penalita": "0"
+      },
+      {
+       "logo": "LC0jOFMtMzBRLVMwUy4zKFEKYAo=",
+       "squadra": "US ROMA RUGBY SSD R.L.",
+       "punteggio": 0,
+       "mete": 0,
+       "partite_giocate": 0,
+       "partite_vinte": 0,
+       "partite_pareggiate": 0,
+       "partite_perse": 0,
+       "punti_fatti": 0,
+       "punti_subiti": 0,
+       "punti_diff": 0,
+       "penalita": "0"
+      },
+      {
+       "logo": "LC0jOFcsU0RVLCNEVy0zOFkKYAo=",
+       "squadra": "RUGBY LIONS ALTO LAZIO ASD",
+       "punteggio": 0,
+       "mete": 0,
+       "partite_giocate": 0,
+       "partite_vinte": 0,
+       "partite_pareggiate": 0,
+       "partite_perse": 0,
+       "punti_fatti": 0,
+       "punti_subiti": 0,
+       "punti_diff": 0,
+       "penalita": "0"
+      },
+      {
+       "logo": "LC0zQFcsI0BYLSNEUSwjQFkKYAo=",
+       "squadra": "LA RUGBY L'AQUILA 2021 SSD ARL",
+       "punteggio": 0,
+       "mete": 0,
+       "partite_giocate": 0,
+       "partite_vinte": 0,
+       "partite_pareggiate": 0,
+       "partite_perse": 0,
+       "punti_fatti": 0,
+       "punti_subiti": 0,
+       "punti_diff": 0,
+       "penalita": "0"
+      },
+      {
+       "logo": "LC0jOFMtIzhSLVM4WS4zOFEKYAo=",
+       "squadra": "RUGBY PERUGIA SSD ARL",
+       "punteggio": 0,
+       "mete": 0,
+       "partite_giocate": 0,
+       "partite_vinte": 0,
+       "partite_pareggiate": 0,
+       "partite_perse": 0,
+       "punti_fatti": 0,
+       "punti_subiti": 0,
+       "punti_diff": 0,
+       "penalita": "0"
+      },
+      {
+       "logo": "LCwzOFEsM2BVLjNgVC0jYFAKYAo=",
+       "squadra": "ASD RUGBY GUBBIO 1984",
+       "punteggio": 0,
+       "mete": 0,
+       "partite_giocate": 0,
+       "partite_vinte": 0,
+       "partite_pareggiate": 0,
+       "partite_perse": 0,
+       "punti_fatti": 0,
+       "punti_subiti": 0,
+       "punti_diff": 0,
+       "penalita": "0"
+      },
+      {
+       "logo": "KyxTOFEtUyRULVM0Uy0jMGAKYAo=",
+       "squadra": "POL. S.S. LAZIO RUGBY 1927 AD",
+       "punteggio": 0,
+       "mete": 0,
+       "partite_giocate": 0,
+       "partite_vinte": 0,
+       "partite_pareggiate": 0,
+       "partite_perse": 0,
+       "punti_fatti": 0,
+       "punti_subiti": 0,
+       "punti_diff": 0,
+       "penalita": "0"
+      },
+      {
+       "logo": "KyxTOFMsU0RXLjM4WSwjYGAKYAo=",
+       "squadra": "ASD CUS CATANIA",
+       "punteggio": 0,
+       "mete": 0,
+       "partite_giocate": 0,
+       "partite_vinte": 0,
+       "partite_pareggiate": 0,
+       "partite_perse": 0,
+       "punti_fatti": 0,
+       "punti_subiti": 0,
+       "punti_diff": 0,
+       "penalita": "0"
+      },
+      {
+       "logo": "LCwzLFYtM0BTLSM4UywzQFQKYAo=",
+       "squadra": "FIFASECURITY UR SAN BENEDETTO",
+       "punteggio": 0,
+       "mete": 0,
+       "partite_giocate": 0,
+       "partite_vinte": 0,
+       "partite_pareggiate": 0,
+       "partite_perse": 0,
+       "punti_fatti": 0,
+       "punti_subiti": 0,
+       "punti_diff": 0,
+       "penalita": "0"
+      },
+      {
+       "logo": "KyxTOFAtMzxYLFMoUyxDJGAKYAo=",
+       "squadra": "POLISPORTIVA PAGANICA RUGBY ASD",
+       "punteggio": 0,
+       "mete": 0,
+       "partite_giocate": 0,
+       "partite_vinte": 0,
+       "partite_pareggiate": 0,
+       "partite_perse": 0,
+       "punti_fatti": 0,
+       "punti_subiti": 0,
+       "punti_diff": 0,
+       "penalita": "0"
+      },
+      {
+       "logo": "LCxDQFUsIzxRLUMsVCxDMFEKYAo=",
+       "squadra": "RUGBY ROMA OLIMPIC CLUB 1930 ASD",
+       "punteggio": 0,
+       "mete": 0,
+       "partite_giocate": 0,
+       "partite_vinte": 0,
+       "partite_pareggiate": 0,
+       "partite_perse": 0,
+       "punti_fatti": 0,
+       "punti_subiti": 0,
+       "punti_diff": 0,
+       "penalita": "0"
+      }
+     ],
      "squadre": {
       "rugby-roma-olimpic-club-1930-asd": {
        "ufficiale": "RUGBY ROMA OLIMPIC CLUB 1930 ASD",
@@ -4953,14 +5122,6 @@
        "ufficiale": "RUGBY LIONS ALTO LAZIO ASD",
        "nome": "Rugby Lions Alto Lazio"
       },
-      "primavera-rugby-asd": {
-       "ufficiale": "PRIMAVERA RUGBY ASD",
-       "nome": "Primavera Rugby"
-      },
-      "rna-ssd-a-r-l": {
-       "ufficiale": "RNA SSD A R.L.",
-       "nome": "Rna"
-      },
       "asd-cus-catania": {
        "ufficiale": "ASD CUS CATANIA",
        "nome": "Cus Catania"
@@ -4976,6 +5137,14 @@
       "la-rugby-l-aquila-2021-ssd-arl": {
        "ufficiale": "LA RUGBY L'AQUILA 2021 SSD ARL",
        "nome": "La Rugby L'Aquila 2021"
+      },
+      "rna-ssd-a-r-l": {
+       "ufficiale": "RNA SSD A R.L.",
+       "nome": "Rna"
+      },
+      "primavera-rugby-asd": {
+       "ufficiale": "PRIMAVERA RUGBY ASD",
+       "nome": "Primavera Rugby"
       }
      },
      "giornate": [
@@ -4983,17 +5152,6 @@
        "nome": "Giornata 01",
        "tipo": "Andata",
        "partite": [
-        {
-         "inizio": "2026-10-17T15:30",
-         "casa": "primavera-rugby-asd",
-         "ospite": "rna-ssd-a-r-l",
-         "punti_casa": null,
-         "punti_ospite": null,
-         "giocata": false,
-         "campo": "SAPIENZA SPORT CAMPO N 1",
-         "provvisorio": false,
-         "rettificato": false
-        },
         {
          "inizio": "2026-10-18T15:30",
          "casa": "rugby-roma-olimpic-club-1930-asd",
@@ -6559,6 +6717,23 @@
          "giocata": false,
          "campo": "CAMPO CARLO ANGELETTI",
          "provvisorio": false,
+         "rettificato": false
+        }
+       ]
+      },
+      {
+       "nome": "Giornata 01",
+       "tipo": "Andata",
+       "partite": [
+        {
+         "inizio": "2026-10-17T15:30",
+         "casa": "primavera-rugby-asd",
+         "ospite": "rna-ssd-a-r-l",
+         "punti_casa": 32,
+         "punti_ospite": 26,
+         "giocata": true,
+         "campo": "SAPIENZA SPORT CAMPO N 1",
+         "provvisorio": true,
          "rettificato": false
         }
        ]
